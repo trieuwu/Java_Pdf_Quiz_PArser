@@ -1,17 +1,53 @@
 package com.quiz;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.quiz.model.Question;
+import com.quiz.service.PdfService;
+import java.io.File;
+import java.io.FileWriter;
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        //tim file root, ko thay thi tao file moi
+        File rootDirectory = new File("pdf_inputs");
+        if (!rootDirectory.exists())
+            rootDirectory.mkdir();
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+        // method reference de loc các THU MUC con, bo qua cac file rieng le
+        File[] subjectFolders = rootDirectory.listFiles(File::isDirectory);
+        if (subjectFolders == null || subjectFolders.length == 0) {
+            System.out.println("No subject folders found in pdf_inputs");
+            return;
+        }
+
+        //set up cong cu loc va xu ly
+        PdfService pdfParser = new PdfService();
+        Gson jsonConverter = new GsonBuilder().setPrettyPrinting().create();
+
+        //loc xu li tung mon hoc bat ke ten mon hoc (cho het ve lowercase)
+        for (File folder : subjectFolders) {
+            String subjectName = folder.getName();
+            File[] pdfFiles = folder.listFiles((dir, name) -> name.toLowerCase().endsWith(".pdf"));
+
+            if (pdfFiles == null || pdfFiles.length == 0)
+                continue;
+
+            List<Question> subjectQuestions = new ArrayList<>();
+            try {
+                for (File file : pdfFiles)
+                    subjectQuestions.addAll(pdfParser.extractQuestions(file.getAbsolutePath()));
+
+                try (FileWriter fileWriter = new FileWriter(subjectName + ".json")) {
+                    jsonConverter.toJson(subjectQuestions, fileWriter);
+                }
+
+                System.out.println("Successfully generated " + subjectName + ".json with " + subjectQuestions.size() + " questions");
+            } catch (Exception exception) { //try-catch error
+                exception.printStackTrace();
+            }
         }
     }
 }
