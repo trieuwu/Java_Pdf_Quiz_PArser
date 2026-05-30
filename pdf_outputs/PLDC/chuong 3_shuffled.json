@@ -1,0 +1,650 @@
+[
+  {
+    "num": 1,
+    "q": "Kiên trì con đường Chủ tịch Hồ Chí Minh đã lựa chọn nghĩa là:",
+    "a": "Thực hiện mục tiêu độc lập dân tộc gắn liền với chủ nghĩa xã hội.",
+    "b": "Thực hiện triệt để cuộc cách mạng dân tộc dân chủ nhân dân.",
+    "c": "Giữ vững nền độc lập dân tộc.",
+    "d": "Hội nhập với nền kinh tế thế giới.",
+    "ans": "a"
+  },
+  {
+    "num": 2,
+    "q": "Theo tư tưởng Hồ Chí Minh, muốn xây dựng chủ nghĩa xã hội trước hết cần có…",
+    "a": "Kinh tế phát triển",
+    "b": "Khoa học – kỹ thuật",
+    "c": "Con người mới xã hội chủ nghĩa",
+    "d": "Con người toàn diện",
+    "ans": "c"
+  },
+  {
+    "num": 3,
+    "q": "Luận điểm của Hồ Chí Minh khẳng định: “Hai thứ Cách mạng tuy có khác nhau, nhưng có mối quan hệ chặt chẽ với nhau”. Người muốn nói về mối quan hệ của cuộc cách mạng nào?",
+    "a": "Cách mạng giải phóng giai cấp và dân tộc trong chủ nghĩa tư bản",
+    "b": "Cách mạng giải phóng giai cấp ở chính quốc và giải phóng con người trong chủ nghĩa tư bản",
+    "c": "Cách mạng giải phóng dân tộc ở thuộc địa và cách mạng vô sản ở chính quốc",
+    "d": "Cách mạng giải phóng giai cấp ở thuộc địa và cách mạng tư sản ở chính quốc",
+    "ans": "c"
+  },
+  {
+    "num": 4,
+    "q": "Đoạn trích sau được trích trong tác phẩm nào của Hồ Chí Minh: “Nước Việt Nam có quyền hướng tự do và độc lập, và sự thật đã thành một nước tự do độc lập. Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”?",
+    "a": "Di chúc",
+    "b": "Đường cách mệnh",
+    "c": "Tuyên ngôn độc lập",
+    "d": "Bản án chế độ thực dân Pháp",
+    "ans": "c"
+  },
+  {
+    "num": 5,
+    "q": "Theo tư tưởng Hồ Chí Minh, chế độ chính trị mà chúng ta xây dựng là chế độ do…",
+    "a": "Giai cấp nông dân làm chủ",
+    "b": "Trí thức làm chủ chủ",
+    "c": "Giai cấp công nhân làm chủ",
+    "d": "Nhân dân làm chủ",
+    "ans": "d"
+  },
+  {
+    "num": 6,
+    "q": "Chọn luận điểm đúng với tư tưởng Hồ Chí Minh:",
+    "a": "Muốn tiến lên chủ nghĩa xã hội thì phải phát triển văn hoá và kinh tế",
+    "b": "Muốn tiến lên chủ nghĩa xã hội thì phải phát triển văn hoá",
+    "c": "Muốn tiến lên chủ nghĩa xã hội thì phải phát triển kinh tế",
+    "d": "Muốn tiến lên chủ nghĩa xã hội thì phải phát triển kinh tế và văn hoá",
+    "ans": "d"
+  },
+  {
+    "num": 7,
+    "q": "Vấn đề dân tộc trong tư tưởng Hồ Chí Minh trong thời đại cách mạng vô sản là vấn đề…",
+    "a": "Dân tộc nói chung",
+    "b": "Dân tộc tư sản",
+    "c": "Dân tộc thuộc địa",
+    "d": "Dân tộc – tộc người Tài liệu tham khảo môn Triết - Anh Huy",
+    "ans": "c"
+  },
+  {
+    "num": 8,
+    "q": "Theo Hồ Chí Minh, đối tượng của cách mạng ở thuộc địa là?",
+    "a": "Cả 3 phương án trên",
+    "b": "Giai cấp địa chủ",
+    "c": "Giai cấp tư sản bản xứ",
+    "d": "Chủ nghĩa thực dân và tay sai phản động",
+    "ans": "d"
+  },
+  {
+    "num": 9,
+    "q": "Thực chất vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh là:",
+    "a": "Đòi bình đằng dân tộc",
+    "b": "Đòi quyền tự do dân chủ tối thiểu cho nhân dân",
+    "c": "Đòi quyền dân tộc tự quyết",
+    "d": "Đấu tranh giải phóng dân tộc khỏi sự áp bức, thống trị của nước ngoài, giành độc lập dân tộc, thành lập nhà nước dân tộc độc lập và đưa đất nước phát triển theo xu thế thời đại",
+    "ans": "d"
+  },
+  {
+    "num": 10,
+    "q": "Luận điểm của Hồ Chí Minh khẳng định: “Hai thứ Cách mạng tuy có khác nhau, nhưng có mối quan hệ chặt chẽ với nhau”. Người muốn nói về mối quan hệ của cuộc cách mạng nào?",
+    "a": "Cách mạng giải phóng dân tộc ở thuộc địa và cách mạng vô sản ở chính quốc",
+    "b": "Cách mạng giải phóng giai cấp ở chính quốc và giải phóng con người trong chủ nghĩa tư bản",
+    "c": "Cách mạng giải phóng giai cấp và dân tộc trong chủ nghĩa tư bản",
+    "d": "Cách mạng giải phóng giai cấp ở thuộc địa và cách mạng tư sản ở chính quốc",
+    "ans": "a"
+  },
+  {
+    "num": 11,
+    "q": "Chọn phương án trả lời đúng với tư tưởng Hồ Chí Minh:",
+    "a": "Cách mạng giải phóng dân tộc ở thuộc địa có khả năng giành được thắng lợi trước cách mạng vô sản ở chính quốc",
+    "b": "Thắng lợi của cách mạng vô sản tổn tại song song với thắng lợi của các cuộc cách mạng tư sản",
+    "c": "Cách mạng giải phóng dân tộc giành thắng lợi đồng thời với thắng lợi cách mạng vô sản ở chính quốc",
+    "d": "Thắng lợi của cách mạng vô sản ở thuộc địa phải phụ thuộc vào thắng lợi của cách mạng vô sản ở chính quốc",
+    "ans": "a"
+  },
+  {
+    "num": 12,
+    "q": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc trong thời đại mới phải do Đảng Cộng sản lãnh đạo để",
+    "a": "Đoàn kết với giai cấp vô sản và các dân tộc bị áp bức trên thế giới",
+    "b": "Tổ chức, tập hợp quần chúng",
+    "c": "Cả 3 phương án trên đều đúng",
+    "d": "Giác ngộ quần chúng",
+    "ans": "c"
+  },
+  {
+    "num": 13,
+    "q": "Lựa chọn cụm từ điền vào chỗ trống: “Chỉ có chủ nghĩa xã hội, chủ nghĩa cộng sản … … và những người lao động trên thế giới khỏi ách nô lệ”.",
+    "a": "Mới xóa bỏ áp bức, bóc lột.",
+    "b": "Mới giải phóng được giai cấp giai cấp công nhân.",
+    "c": "Mới giải phóng được các dân tộc bị áp bức.",
+    "d": "Mới giải phóng được nhân dân.",
+    "ans": "c"
+  },
+  {
+    "num": 14,
+    "q": "Luận điểm: “Sự giải phóng của giai cấp công nhân phải là sự nghiệp của bản thân giai cấp công nhân” là của ai?",
+    "a": "Ph. Ănghen",
+    "b": "Hồ Chí Minh",
+    "c": "C.Mác",
+    "d": "V.I. Lênin Tài liệu tham khảo môn Triết - Anh Huy",
+    "ans": "c"
+  },
+  {
+    "num": 15,
+    "q": "Chọn cụm từ đúng điền vào chỗ trống trong câu nói sau của Hồ Chí Minh: “Một dân tộc dốt là một dân tộc …”",
+    "a": "Lạc hậu",
+    "b": "Chậm phát triển",
+    "c": "Không thể trở thành phú cường",
+    "d": "Yếu",
+    "ans": "d"
+  },
+  {
+    "num": 16,
+    "q": "Hồ Chí Minh đã khẳng định chủ nghĩa dân tộc là một động lực lớn ở các nước đang đấu tranh giành độc lập. Đó là chủ nghĩa dân tộc…",
+    "a": "Chân chính",
+    "b": "Vị tha",
+    "c": "Hẹp hòi",
+    "d": "Sô vanh nước lớn",
+    "ans": "a"
+  },
+  {
+    "num": 17,
+    "q": "Theo Hồ Chí Minh, kết hợp nhuần nhuyễn dân tộc với giai cấp, độc lập dân tộc và chủ nghĩa xã hội phản ánh…",
+    "a": "Quy luật khách quan của cách mạng giải phóng dân tộc trong thời đại cách mạng vô sản",
+    "b": "Mối quan hệ giữa mục tiêu giải phóng dân tộc với giải phóng giai cấp, giải phóng con người",
+    "c": "Cả 3 phương án trên đều đúng",
+    "d": "Mối quan hệ giữa mục tiêu trước mắt và mục tiêu lâu dài",
+    "ans": "c"
+  },
+  {
+    "num": 18,
+    "q": "Hồ Chí Minh đã dung hình tượng nào dưới đây để chỉ chủ nghĩa tư bản?",
+    "a": "Con vẹt",
+    "b": "Con chim đại bàng",
+    "c": "Con bạch tuộc",
+    "d": "Con đỉa hai vòi",
+    "ans": "d"
+  },
+  {
+    "num": 19,
+    "q": "Luận điểm sau được trích trong tác phẩm nào của Hồ Chí Minh: “Trước hết phải có đảng cách mệnh, để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi. Đảng có vững cách mệnh mới thành công, cũng như người cầm lái có vững thì thuyền mới chạy”?",
+    "a": "Tuyên ngôn độc lập",
+    "b": "Đường cách mệnh",
+    "c": "Di chúc",
+    "d": "Bản án chế độ thực dân Pháp",
+    "ans": "b"
+  },
+  {
+    "num": 20,
+    "q": "“Không! Chúng ta thà hi sinh tất cả chứ không chịu mất nước, chứ không chịu làm nô lệ”. Đoạn trên được trích từ bài viết nào của Hồ Chí Minh",
+    "a": "Thư gửi đồng bào Nam Bộ",
+    "b": "Tuyên ngôn độc lập (1945)",
+    "c": "Thư kêu gọi Tổng khởi nghĩa",
+    "d": "Lời kêu gọi toàn quốc kháng chiến",
+    "ans": "d"
+  },
+  {
+    "num": 21,
+    "q": "\"Chúng ta thà hy sinh tất cả chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ\". Câu nói trên của Hồ Chí Minh vào thời gian nào?",
+    "a": "Tháng 9 năm 1945",
+    "b": "Tháng 8 năm 1945",
+    "c": "Tháng 6 năm 1966 Tài liệu tham khảo môn Triết - Anh Huy",
+    "d": "Tháng 12 năm 1946",
+    "ans": "d"
+  },
+  {
+    "num": 22,
+    "q": "Đại hội VI Quốc tế cộng sản đã thông qua “Những luận cương về phong trào cách mạng trong các nước thuộc địa và nửa thuộc địa” vào năm nào?",
+    "a": "1929",
+    "b": "1926",
+    "c": "1927",
+    "d": "1928",
+    "ans": "d"
+  },
+  {
+    "num": 23,
+    "q": "“Chủ nghĩa xã hội là nhằm nâng cao đời sống vật chất và văn hoá của nhân dân và do nhân dân tự xây dựng lấy. Muốn đạt mục đích đó, thì nhân dân ta phải ra sức thi đua tăng gia sản xuất và thực hành tiết kiệm; mỗi người phải cố gắng trở thành lao động tiên tiến, chiến sĩ thi đua, anh hùng lao động, mỗi người phải nâng cao tinh thần làm chủ nước nhà”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Lời khai mạc Đại hội liên hoan anh hùng, chiến sĩ thi đua toàn quốc lần thứ III (5/1962)",
+    "b": "Bài nói chuyện tại Đại hội lần thứ III của Đoàn Thanh niên Lao động Việt Nam (3/1961).",
+    "c": "Bài nói chuyện với cán bộ tỉnh Hà Tây (2/1967).",
+    "d": "Bài nói chuyện tại lớp nghiên cứu chính trị khoá I, Trường Đại học nhân dân Việt Nam (7/1956)",
+    "ans": "a"
+  },
+  {
+    "num": 24,
+    "q": "Theo tư tưởng Hồ Chí Minh, độc lập tự do là…",
+    "a": "Quyền thiêng liêng của tất cả các dân tộc",
+    "b": "Quyền thiêng liêng và bất khả xâm phạm của tất cả các dân tộc",
+    "c": "Quyền bất khả xâm phạm của tất cả các dân tộc",
+    "d": "Quyền bất khả xâm phạm của công dân",
+    "ans": "b"
+  },
+  {
+    "num": 25,
+    "q": "Hội nghị lần thứ tám Ban Chấp hành Trung ương Đảng do Nguyễn Ái Quốc chủ trì diễn ra khi nào?",
+    "a": "8/1945",
+    "b": "12/1944",
+    "c": "5/1941",
+    "d": "1/1941",
+    "ans": "c"
+  },
+  {
+    "num": 26,
+    "q": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc là sự nghiệp đoàn kết của…",
+    "a": "Toàn dân tộc trên cơ sở liên minh công – nông",
+    "b": "Giai cấp công nhân và giai cấp nông dân",
+    "c": "Giai cấp công nhân",
+    "d": "Giai cấp tư sản và nông dân",
+    "ans": "a"
+  },
+  {
+    "num": 27,
+    "q": "Theo Hồ Chí Minh, ở đời và làm người thì phải làm gì?",
+    "a": "Yêu nước",
+    "b": "Cả 3 phương án trên đều đúng",
+    "c": "Thương nhân loại bị áp bức",
+    "d": "Thương dân",
+    "ans": "b"
+  },
+  {
+    "num": 28,
+    "q": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi cần phải:",
+    "a": "Tiến hành bằng bạo lực cách mạng.",
+    "b": "Đi theo con đường cách mạng vô sản",
+    "c": "Cả ba đáp án trên đều đúng.",
+    "d": "Có Đảng cộng sản lãnh đạo. Tài liệu t am khảo môn Triết - Anh Huy",
+    "ans": "c"
+  },
+  {
+    "num": 29,
+    "q": "Trong Tư tưởng HCM, giải phóng con người trước hết là",
+    "a": "Giải phóng giai cấp công nhân",
+    "b": "Giải phóng dân tộc",
+    "c": "Giải phóng giai cấp nông dân",
+    "d": "Giải phóng xã hội",
+    "ans": "b"
+  },
+  {
+    "num": 30,
+    "q": "Mâu thuẫn chủ yếu trong xã hội thuộc địa phương Đông là mâu thuẫn gì?",
+    "a": "Mâu thuẫn giữa giai cấp nông dân và giai cấp địa chủ",
+    "b": "Mâu thuẫn giữa dân tộc bị áp bức với giai cấp tư sản bản xứ",
+    "c": "Mâu thuẫn giữa dân tộc bị áp bức với chủ nghĩa thực dân",
+    "d": "Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản",
+    "ans": "c"
+  },
+  {
+    "num": 31,
+    "q": "Thực chất của vấn đề dân tộc thuộc địa trong tư tưởng Hồ Chí Minh là gì?",
+    "a": "Đấu tranh giải phóng giai cấp, mang lại tự do thực sự cho giai cấp công nhân",
+    "b": "Đấu tranh chống lại giai cấp tư sản ở thuộc địa",
+    "c": "Lật đổ sự thống trị của giai cấp địa chủ phong kiến, mang lại ruộng đất cho dân cày",
+    "d": "Đấu tranh chống chủ nghĩa thực dân, giải phóng dân tộc",
+    "ans": "d"
+  },
+  {
+    "num": 32,
+    "q": "Theo Hồ Chí Minh, trong cuộc cách mạng giải phóng dân tộc, lực lượng nào “là gốc cách mệnh”?",
+    "a": "Giai cấp công nhân.",
+    "b": "Giai cấp nông dân.",
+    "c": "Giai cấp tư sản dân tộc.",
+    "d": "Giai cấp công nhân và giai cấp nông dân.",
+    "ans": "d"
+  },
+  {
+    "num": 33,
+    "q": "Trong những câu dưới đây, câu nào không phải là của Chủ tịch Hồ Chí Minh?",
+    "a": "Không có gì quý hơn độc lập, tự do",
+    "b": "Cay đắng chi bằng mất tự do.",
+    "c": "Không có gì quý bằng độc lập, tự do",
+    "d": "Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ.",
+    "ans": "c"
+  },
+  {
+    "num": 34,
+    "q": "Luận điểm: “Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộn sản” được trích trong tác phẩm nào của Hồ Chí Minh?",
+    "a": "Đường cách mệnh lược của cách mạng VN:…",
+    "b": "Bản án chế độ thực dân Pháp",
+    "c": "Cương lĩnh chính trị đầu tiên",
+    "d": "Di chúc",
+    "ans": "c"
+  },
+  {
+    "num": 35,
+    "q": "Nột dung cốt lõi của tư tưởng Hồ Chí Minh là gì",
+    "a": "Độc lập dân tộc Tài liệu tham khảo môn Triết - Anh Huy",
+    "b": "Dân chủ, dân quyền",
+    "c": "Chủ nghĩa xã hội",
+    "d": "Độc lập dân tộc gắn liền với chủ nghĩa xã hội nghĩa xã hội”",
+    "ans": "d"
+  },
+  {
+    "num": 36,
+    "q": "Ai là người bàn nhiều về cuộc đấu tranh chống chủ nghĩa đế quốc?",
+    "a": "C.Mác",
+    "b": "V.I.Lênin",
+    "c": "Hồ Chí Minh",
+    "d": "Ph. Ăngghen",
+    "ans": "b"
+  },
+  {
+    "num": 37,
+    "q": "Hồ Chí Minh viết: “Trong cuộc đấu tranh gian khổ chống kẻ thù của giai cấp và của dân tộc, cần phải dùng Bạo lực cách mạng chống lại bạo lực phản cách mạng, giành lấy chính quyền và bảo vệ chính quyền”. Câu trích nêu trên Hồ Chí Minh muốn đề cập tới vấn đề gì trong quan điểm về Cách mạng giải phóng dân tộc?",
+    "a": "Hình thái của bạo lực cách mạng",
+    "b": "Bạo lực cách mạng là phương thức phổ biến",
+    "c": "Tính tất yếu của bạo lực cách mạng",
+    "d": "Cách thức thể hiện của bạo lực cách mạng",
+    "ans": "c"
+  },
+  {
+    "num": 38,
+    "q": "\"Chiến tranh có thể kéo dài 5 năm, 10 năm, 20 năm hoặc lâu hơn nữa..., song nhân dân Việt Nam quyết không sợ? Không có gì quý hơn độc lập tự do. Đến ngày thắng lợi nhân dân ta sẽ xây dựng lại đất nước ta đàng hoàng hơn, to đẹp hơn\". Câu nói trên của Chủ tịch Hồ Chí Minh vào thời gian nào?",
+    "a": "Lời kêu gọi của Hồ Chí Minh ngày 17/7/1966",
+    "b": "Bản Di chúc của Hồ Chí Minh được công bố tại lễ truy điệu Người ngày 9/9/1969",
+    "c": "Thư chúc tết đầu Xuân 1969",
+    "d": "Lời kêu gọi của Hồ Chí Minh ngày 19/12/1946",
+    "ans": "a"
+  },
+  {
+    "num": 39,
+    "q": "Theo Hồ Chí Minh, nội dung giải phóng dân tộc theo con đường cách mạng vô sản bao gồm",
+    "a": "Lực lượng cách mạng là toàn dân tộc",
+    "b": "Đi từ giải phóng dân tộc tới xã hội cộng sản",
+    "c": "Lực lượng lãnh đạo là Đảng Cộng sản",
+    "d": "Cả 3 phương án trên đều đúng",
+    "ans": "d"
+  },
+  {
+    "num": 40,
+    "q": "Theo Hồ Chí Minh, bước đi trong xây dựng Chủ nghĩa xã hội là gì?",
+    "a": "Tiến nhanh.",
+    "b": "Đẩy mạnh công nghiệp hóa, nhanh chóng đuổi kịp các nước. được mà phải làm dần dần”",
+    "c": "Tiến dần dần từng bước.",
+    "d": "Tiến mạnh.",
+    "ans": "c"
+  },
+  {
+    "num": 41,
+    "q": "“… Tôi chỉ có một ham muốn, ham muốn tột bậc, là làm sao cho nước ta được hoàn toàn độc lập, dân ta được hoàn toàn tự do, đồng bào ai cũng có cơm ăn áo mặc, ai cũng được học hành”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (3/2/1969)",
+    "b": "Trả lời các nhà báo nước ngoài (1/1946). Tài liệu tham khảo môn Triết - Anh Huy",
+    "c": "Diễn văn khai mạc Đại hội Đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9/1960)",
+    "d": "Bài nói chuyện tại lớp nghiên cứu chính trị khoá I, Trường Đại học nhân dân Việt Nam (7/1956)",
+    "ans": "b"
+  },
+  {
+    "num": 42,
+    "q": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải…",
+    "a": "Kết hợp lực lượng chính trị của quần chúng với lực lượng vũ trang của nhân dân",
+    "b": "Thực hiện bằng con đường bạo lực",
+    "c": "Thực hiện bằng con đường hòa bình, vận động, thuyết phục",
+    "d": "Thực hiện bằng con đường bạo lực, kết hợp với lực lượng chính trị của quần chúng với lực lượng vũ trang của nhân dân",
+    "ans": "d"
+  },
+  {
+    "num": 43,
+    "q": "“Công nông là tay không, chân không rồi, nếu thua thì chỉ mất một kiếp khổ, nếu được thì được cả thế giới, cho nên họ gan góc”. Câu trích nêu trên Hồ Chí Minh muốn đề cập đến vấn đề gì trong quan điểm về cách mạng giải phóng dân tộc?",
+    "a": "Nguồn gốc của giai cấp công nhân.",
+    "b": "Tinh thần cách mạng triệt để của giai cấp công nhân, nông dân ở Việt Nam",
+    "c": "Công nông là lực lượng cách mạng đông đảo nhất.",
+    "d": "Ý thức tự giác cách mạng của công nông",
+    "ans": "b"
+  },
+  {
+    "num": 44,
+    "q": "Theo tư tưởng Hồ Chí Minh, nền kinh tế mà chúng ta xây dựng phải được tạo lập trên cơ sở… là chủ yếu.",
+    "a": "Chế độ công hữu về tư liệu sản xuất",
+    "b": "Nền nông nghiệp hiện đại",
+    "c": "Chế độ tư hữu về tư liệu sản xuất",
+    "d": "Nền công nghiệp hiện đại",
+    "ans": "a"
+  },
+  {
+    "num": 45,
+    "q": "Theo Hồ Chí Minh điểm giống nhau của hai giai đoạn, giai đoạn thấp, tức chủ nghĩa xã hội, giai đoạn cao, tức chủ nghĩa cộng sản là gì?",
+    "a": "Sức sản xuất đã phát triển cao; tư liệu sản xuất đều là của chung; không có giai cấp áp bức bóc lột.",
+    "b": "Sức sản xuất đã phát triển cao; tư liệu sản xuất là của chung.",
+    "c": "Sức sản xuất đã phát triển cao",
+    "d": "Sức sản xuất đã phát triển cao; tư liệu sản xuất là của chung; thực hiện nguyên tắc phân phối theo lao động.",
+    "ans": "a"
+  },
+  {
+    "num": 46,
+    "q": "Hồ Chí Minh khẳng định: “…Nọc độc và sức sống của con rắn độc Tư bản chủ nghĩa đang tập trung ở thuộc địa…đánh rắn thì phải đánh ở đằng đầu”. Câu trích nêu trên Hồ Chí Minh muốn đề cập đến vấn đề gì trong quan điểm về vấn đề dân tộc?",
+    "a": "Phương pháp thực hiện cách mạng ở các nước thuộc địa",
+    "b": "Động lực của cách mạng thuộc địa",
+    "c": "Tính sáng tạo của cách mạng thuộc địa",
+    "d": "Khả năng chủ động và giành thắng lợi của cách mạng thuộc địa so với cách mạng vô sản chính quốc",
+    "ans": "d"
+  },
+  {
+    "num": 47,
+    "q": "“Tất cả sinh lực của chủ nghĩa tư bản quốc tế đều lấy ở các nước xứ thuộc địa. Đó là nơi chủ nghĩa tư bản lấy nguyên liệu cho các nhà máy của nó, nơi nó đầu tư, tiêu thụ hàng, mộ nhân công rẻ mạt cho đạo quân lao động của nó, và nhất là binh lính bản xứ cho các đạo quân phản cách mạng của nó... nhân dân xứ thuộc địa là những người bị bóc lột tàn tệ nhất”. Câu trích nêu trên Hồ Chí Minh muốn đề cập đến vấn đề gì trong quan điểm về cách mạng giải phóng dân tộc?",
+    "a": "Khả năng giành thắng lợi của cách mạng thuộc địa trước cách mạng vô sản chính quốc",
+    "b": "Mối quan hệ giữa cách mạng thuộc địa và cách mạng vô sản chính quốc",
+    "c": "Tính chủ động của cách mạng thuộc địa Tài liệu t am khảo môn Triết - Anh Huy",
+    "d": "Khả năng giành thắng lợi của cách mạng vô sản chính quốc.",
+    "ans": "a"
+  },
+  {
+    "num": 48,
+    "q": "Hồ Chí Minh khẳng định chủ nghĩa dân tộc là một động lực lớn ở các nước đang đấu tranh giành độc lập. Đó là chủ nghĩa dân tộc nào?",
+    "a": "Chủ nghĩa dân tộc vị kỷ.",
+    "b": "Chủ nghĩa sô vanh, nước lớn.",
+    "c": "Chủ nghĩa dân tộc chân chính.",
+    "d": "Chủ nghĩa nhân đạo cộng sản",
+    "ans": "c"
+  },
+  {
+    "num": 49,
+    "q": "“Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy”. Đoạn trên được trích từ bài viết nào của Hồ Chí Minh",
+    "a": "Lời kêu gọi toàn quốc kháng chiến",
+    "b": "Tuyên ngôn độc lập (1945)",
+    "c": "Thư gửi đồng bào Nam Bộ",
+    "d": "Thư kêu gọi Tổng khởi nghĩa",
+    "ans": "b"
+  },
+  {
+    "num": 50,
+    "q": "Trong cách mạng giải phóng dân tộc, Hồ Chí Minh coi giai cấp nào đóng vai trò động lực cách mạng?",
+    "a": "Giai cấp công nhân",
+    "b": "Giai cấp công nhân và giai cấp nông dân",
+    "c": "Giai cấp nông dân",
+    "d": "Giai cấp tư sản dân tộc",
+    "ans": "b"
+  },
+  {
+    "num": 51,
+    "q": "Theo tư tưởng Hồ Chí Minh, mục tiêu của chủ nghĩa xã hội là gì?",
+    "a": "Mở rộng dân chủ cho mọi giai cấp, tầng lớp",
+    "b": "Phát triển mạnh mẽ khoa học, kỹ thuật",
+    "c": "Không ngừng cải thiện và nâng cao đời sống nhân dân lao động",
+    "d": "Nền kinh tế nông nghiệp hiện đại",
+    "ans": "c"
+  },
+  {
+    "num": 52,
+    "q": "Câu nói: “Bạo lực là bà đỡ của một chế độ xã hội cũ đang thai nghén một chế độ xã hội mới”, của ai?",
+    "a": "V.I.Lênin",
+    "b": "Hồ Chí Minh",
+    "c": "C.Mác",
+    "d": "Ph. Ăngghen",
+    "ans": "c"
+  },
+  {
+    "num": 53,
+    "q": "Trong các luận điểm sau đây, luận điểm nào của Hồ Chí Minh?",
+    "a": "“Quyền tự nhiên của con người là quyền sống, quyền tự do, quyền tư hữu “",
+    "b": "“Tất cả mọi người đều sinh ra có quyền bình đẳng.Tạo hóa cho họ những quyền không ai có thể xâm phạm được:trong những quyền ấy, có quyền được sống, quyền tự do và quyền mưu cầu hạnh phúc”.",
+    "c": "“Tất cả dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do”.",
+    "d": "“Người ta sinh ra tự do và bình đẳng về quyền lợi và phải luôn luôn được tự do và bình đẳng về quyền lợi”.",
+    "ans": "c"
+  },
+  {
+    "num": 54,
+    "q": "\"Toàn thể dân tộc Việt Nam quyết đem tất cả tinh thần và lực lượng, tính mạng và của cải để giữ vững quyền tự do, độc lập ấy\". Đoạn văn trên trích từ bài viết nào của Chủ tịch Hồ Chí Minh?",
+    "a": "Thư kêu gọi Tổng khởi nghĩa.",
+    "b": "Tuyên ngôn Độc lập. Tài liệu tham khảo môn Triết - Anh Huy",
+    "c": "Thư gửi đồng bào Nam bộ.",
+    "d": "Lời kêu gọi Toàn quốc kháng chiến.",
+    "ans": "b"
+  },
+  {
+    "num": 55,
+    "q": "Trong các luận điểm sau về chủ nghĩa xã hội, đâu là luận điểm của Hồ Chí Minh?",
+    "a": "Chủ nghĩa xã hội là lấy nhà máy, ngân hàng, xe lửa... làm của chung",
+    "b": "Chủ nghĩa cộng sản là giai cấp công nhân ghi lên lá cờ của mình khẩu hiệu: làm theo năng lực, hưởng theo nhu cầu",
+    "c": "Liên hợp tự do của những người lao động, tự do của mỗi người là điều kiện cho sự tự do của mọi người",
+    "d": "Chủ nghĩa xã hội là chính quyền Xô Viết + điện khí hóa toàn quốc",
+    "ans": "a"
+  },
+  {
+    "num": 56,
+    "q": "Chủ tịch Hồ Chí Minh nói câu: \"Không có gì quý hơn độc lập, tự do” vào thời gian nào?",
+    "a": "1945",
+    "b": "1960",
+    "c": "1966",
+    "d": "1954",
+    "ans": "c"
+  },
+  {
+    "num": 57,
+    "q": "Luận điểm “Chủ nghĩa dân tộc là động lực lớn của đất nước” của Hồ Chí Minh được trích từ tác phẩm nào?",
+    "a": "Báo người cùng khổ",
+    "b": "Báo cáo về Bắc kỳ, trung kỳ và nam kỳ",
+    "c": "Đường cách mệnh",
+    "d": "Bản án chế độ thực dân Pháp",
+    "ans": "b"
+  },
+  {
+    "num": 58,
+    "q": "Trong quá trình tìm tòi con đường cứu nước, tại sao Hồ Chí Minh không lựa chọn đi theo con đường cách mạng của các nước Anh, Pháp, Mỹ?",
+    "a": "Đây là các cuộc cách mạng dưới sự lãnh đạo của giai cấp tư sản",
+    "b": "Các cuộc cách mạng này diễn ra ở phương Tây nên không phù hợp với xã hội phương Đông",
+    "c": "Đây là những cuộc cách mạng không đến nơi đến nơi,…",
+    "d": "Đây là các cuộc cách mạng không tiên tiến",
+    "ans": "c"
+  },
+  {
+    "num": 59,
+    "q": "Trong cương lĩnh chính trị đầu tiên của Đảng cộng sản Việt Nam. Hồ Chí Minh viết: “Làm tư sản dân quyền cách mạng và thổ địa cách mạng để đi tới xã hội cộng sản” thực chất là gì?",
+    "a": "Cách mạng giải phóng giai cấp là trung tâm tạo điều kiện giải phóng dân tộc.",
+    "b": "Cách mạng giải phóng dân tộc, giành độc lập dân tộc.",
+    "c": "Cuộc cách mạng với nội dung dân tộc, dân chủ và chủ nghĩa xã hội.",
+    "d": "Giải phóng dân tộc tạo tiền đề để giải phóng giai cấp.",
+    "ans": "c"
+  },
+  {
+    "num": 60,
+    "q": "Luận điểm “công cuộc giải phóng anh em chỉ có thể thực hiện bằng sự nỗ lực của bản than anh em” là của ai?",
+    "a": "Lê Duẩn",
+    "b": "Ph. Ăngghen",
+    "c": "C. Mác",
+    "d": "Hồ Chí Minh",
+    "ans": "d"
+  },
+  {
+    "num": 61,
+    "q": "Theo tư tưởng Hồ Chí Minh, đặc trưng kinh tế nổi bật nhất của chủ nghĩa xã hội là gì?",
+    "a": "Chế độ tư hữu về tư liệu sản xuất",
+    "b": "Sở hữu xã hội về tư liệu sản xuất Tài liệu tham khảo môn Triết - Anh Huy",
+    "c": "Khoa học – Kỹ thuật",
+    "d": "Cơ cấu công – nông nghiệp hợp lý",
+    "ans": "b"
+  },
+  {
+    "num": 62,
+    "q": "Theo Hồ Chí Minh, cách mạng giải phóng dân tộc muốn giành được thắng lợi phải…",
+    "a": "Tiến hành chủ động và sáng tạo",
+    "b": "Phụ thuộc hoàn toàn vào cách mạng tư sản",
+    "c": "Dựa vào sự thắng lợi của cách mạng ở các nước thuộc địa khác",
+    "d": "Dựa vào thắng lợi của cách mạng vô sản ở chính quốc",
+    "ans": "a"
+  },
+  {
+    "num": 63,
+    "q": "“Đồng bào Nam Bộ là dân nước Việt Nam. Sông có thể cạn, núi có thể mòn, song chân lý đó không bao giờ thay đổi”. Đoạn trên được trích từ bài viết nào của Hồ Chí Minh",
+    "a": "Thư kêu gọi Tổng khởi nghĩa",
+    "b": "Thư gửi đồng bào Nam Bộ",
+    "c": "Tuyên ngôn độc lập (1945)",
+    "d": "Lời kêu gọi toàn quốc kháng chiến",
+    "ans": "b"
+  },
+  {
+    "num": 64,
+    "q": "Theo Hồ Chí Minh, trong cách mạng giải phóng dân tộc, lực lượng nào được coi là “bầu bạn cách mệnh” của công nông?",
+    "a": "Tầng lớp tiểu tư sản – trí thức một cái kiếp khổ, nếu được thì được cả thế giới, cho nên họ gan góc. Vì những cớ ấy, nên công nông là gốc cách mệnh; còn học trò, nhà buôn nhỏ, điền chủ nhỏ cũng bị tư bản áp bức, song không cực khổ bằng công nông; 3 hạng ấy chỉ là bầu bạn cách mệnh của công nông thôi.\" - Trích \"Đường Kách mệnh\"",
+    "b": "Giai cấp tư sản dân tộc",
+    "c": "Cả 3 phương án trên",
+    "d": "Bộ phận địa chủ yêu nước",
+    "ans": "c"
+  },
+  {
+    "num": 65,
+    "q": "Chọn cụm từ đúng điền vào chỗ trống trong câu viết sau đây của Hồ Chí Minh: \"Toàn thể dân tộc Việt Nam quyết đemđể giữ vững quyền tự do, độc lập ấy\".",
+    "a": "Toàn bộ sức lực.",
+    "b": "Lòng dũng cảm và sự hy sinh",
+    "c": "Tất cả tinh thần và lực lượng, tính mạng và của cải.",
+    "d": "Tất cả tinh thần và lực lượng.",
+    "ans": "c"
+  },
+  {
+    "num": 66,
+    "q": "Theo Hồ Chí Minh, khi bước vào thời kỳ quá độ, đặc điểm to nhất của Việt Nam là gì?",
+    "a": "Từ một nước nông nghiệp lạc hậu quá độ lên chủ nghĩa xã hội không phải kinh qua giai đoạn phát triển tư bản chủ nghĩa",
+    "b": "Từ một nước nông nghiệp tiến lên chủ nghĩa xã hội",
+    "c": "Từ một nước thuộc địa nửa phong kiến quá độ lên chủ nghĩa xã hội",
+    "d": "Từ một nước lạc hậu quá độ trực tiếp lên chủ nghĩa xã hội",
+    "ans": "a"
+  },
+  {
+    "num": 67,
+    "q": "Theo Hồ Chí Minh ở Việt Nam và các nước thuộc địa cần tiến hành cuộc cách mạng nào trước?",
+    "a": "Cách mạng xã hội chủ nghĩa",
+    "b": "Cách mạng giải phóng dân tộc",
+    "c": "Cách mạng giải phóng giai cấp",
+    "d": "Cách mạng giải phóng con người một cách toàn diện",
+    "ans": "b"
+  },
+  {
+    "num": 68,
+    "q": "Theo Hồ Chí Minh, nhiệm vụ hàng đầu, trên hết trước hết của cách mạng Việt Nam là…",
+    "a": "Giải phóng giai cấp",
+    "b": "Giải phóng dân tộc",
+    "c": "Giải phóng con người Tài liệu tham khảo môn Triết - Anh Huy",
+    "d": "Giải phóng phụ nữ",
+    "ans": "b"
+  },
+  {
+    "num": 69,
+    "q": "Luận điểm: “Tất cả các dân tộc trên thế giới đều sinh ra bình đẳng, dân tộc nào cũng có quyền sống, quyền sung sướng và quyền tự do” được trích trong tác phẩm nào của Hồ Chí Minh?",
+    "a": "Bản án chế độ thực dân Pháp",
+    "b": "Tuyên ngôn độc lập",
+    "c": "Đường cách mệnh",
+    "d": "Di chúc",
+    "ans": "b"
+  },
+  {
+    "num": 70,
+    "q": "Luận điểm “Chủ nghĩa tư bản là một con đỉa có 1 cái vòi bám vào giai cấp vô sản ở chính quốc và 1 cái vòi khác bám vào giai cấp vô sản ở các nước thuộc địa. Nếu muốn giết con vật ấy, người ta phải đồng thời cắt cả 2 vòi” của Hồ Chí Minh được trích trong tác phẩm nào?",
+    "a": "Đường cách mệnh",
+    "b": "Bản án chế độ thực dân Pháp",
+    "c": "Di chúc",
+    "d": "Báo người cùng khổ",
+    "ans": "b"
+  },
+  {
+    "num": 71,
+    "q": "Trong tác phẩm Đường cách mệnh, Hồ Chí Minh cho rằng muốn làm cách mạng thì trước hết phải có?",
+    "a": "Lực lượng cách mạng",
+    "b": "Cả 3 phương án trên",
+    "c": "Phương pháp cách mạng",
+    "d": "Đảng cách mạng liên lạc với các dân tộc bị áp bức và vô sản giai cấp mọi nơi",
+    "ans": "d"
+  },
+  {
+    "num": 72,
+    "q": "Luận điểm: “Dù phải hy sinh tới đâu, dù phải đốt cháy cả dãy Trường Sơn cũng phải kiên quyết giành cho được độc lập” được Hồ Chí Minh đưa ra khi nào?",
+    "a": "5/1941",
+    "b": "1/1941",
+    "c": "8/1945 Tài liệu t am khảo môn T iết - Anh Huy",
+    "d": "12/1944",
+    "ans": "c"
+  }
+]

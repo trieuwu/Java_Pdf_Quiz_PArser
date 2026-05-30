@@ -1,0 +1,749 @@
+[
+  {
+    "num": 1,
+    "q": "Theo tư tưởng Hồ Chí Minh: “Văn hóa … cho quốc dân đi”",
+    "a": "Soi đường",
+    "b": "Chỉ đường",
+    "c": "Dẫn đường",
+    "d": "Mở lối",
+    "ans": "a"
+  },
+  {
+    "num": 2,
+    "q": "Luận điểm của Hồ Chí Minh: “con người vừa là mục tiêu, động lực của cách mạng”, luận điểm đó thể hiện nội dung tư tưởng nào sau đây?",
+    "a": "Con người Việt Nam có lòng nồng nàn yêu nước.",
+    "b": "Không có gì quý hơn độc lập tự do.",
+    "c": "Con người là vốn quý nhất, nhân tố quyết định thắng lợi của cách mạng.",
+    "d": "Con người vừa là sản phẩm, vừa là chủ thể của xã hội.",
+    "ans": "c"
+  },
+  {
+    "num": 3,
+    "q": "Đặc trưng cốt lõi nhất của tư tưởng đạo đức Hồ Chí Minh là gì?",
+    "a": "Chủ nghĩa nhân đạo chiến đấu",
+    "b": "Sự quan tâm đến con người",
+    "c": "Cả 3 phương án trên đều đúng",
+    "d": "Lòng thương người",
+    "ans": "c"
+  },
+  {
+    "num": 4,
+    "q": "Chọn phương án đúng nhất: Con người theo quan niệm của Hồ Chí Minh là…",
+    "a": "Vốn quý của cách mạng",
+    "b": "Động lực của cách mạng",
+    "c": "Vốn quý nhất, nhân tố quan trọng của cách mạng",
+    "d": "Vốn quý nhất, nhân tố quyết định đến thành công của cách mạng",
+    "ans": "d"
+  },
+  {
+    "num": 5,
+    "q": "Nhìn một cách tổng quát thì vai trò của văn hóa theo Hồ Chí Minh được hiểu theo nghĩa nào?",
+    "a": "Bồi dưỡng những phẩm chất tốt đẹp",
+    "b": "Văn hóa soi đường cho quốc dân đi.",
+    "c": "Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp.",
+    "d": "Nâng cao dân trí.",
+    "ans": "b"
+  },
+  {
+    "num": 6,
+    "q": "Chọn cụm từ đúng nhất để điền vào chỗ trống: Theo tư tưởng Hồ Chí Minh, “người cách mạng phải có … thì mới gánh được nặng và đi được xa”",
+    "a": "Đạo đức cách mạng",
+    "b": "Trí tuệ",
+    "c": "Lập trường, tư tưởng cách mạng",
+    "d": "Phương pháp cách mạng",
+    "ans": "a"
+  },
+  {
+    "num": 7,
+    "q": "Theo Hồ Chí Minh, Trung thành với sự nghiệp dựng nước, giữ nước, trung thành với con đường đi lên của đất nước; suốt đời phấn đấu cho Đảng, cách mạng, thuộc phẩm chất đạo đức nào?",
+    "a": "Trung với nước, hiếu với dân",
+    "b": "Yêu thương con người",
+    "c": "Cần, kiệm, liêm, chính, chí công vô tư",
+    "d": "Có tinh thần quốc tế trong sáng",
+    "ans": "a"
+  },
+  {
+    "num": 8,
+    "q": "Theo Hồ Chí Minh, “kiệm” có nghĩa là? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Không bừa bãi",
+    "b": "Cả 3 phương án trên",
+    "c": "Không xa xỉ",
+    "d": "Không hoang phí",
+    "ans": "b"
+  },
+  {
+    "num": 9,
+    "q": "Luận điểm “Văn hóa soi đường cho quốc dân đi” của Hồ Chí Minh là muốn nói đến vấn đề chung nào của văn hóa?",
+    "a": "Vị trí của văn hóa",
+    "b": "Chức năng của văn hóa",
+    "c": "Tính chất của văn hóa",
+    "d": "Vai trò của văn hóa",
+    "ans": "d"
+  },
+  {
+    "num": 10,
+    "q": "Chủ tịch Hồ Chí Minh định nghĩa về “tiết kiệm” như thế nào?",
+    "a": "Nói theo lối khoa học, tiết kiệm là tích cực;",
+    "b": "Tiết kiệm không phải là bủn xỉn;",
+    "c": "Tiết kiệm là không xa xỉ, không hoang phí, không bừa bãi;",
+    "d": "Cả 3 phương án trên đều đúng.",
+    "ans": "d"
+  },
+  {
+    "num": 11,
+    "q": "Theo Chủ tịch Hồ Chí Minh: Chủ nghĩa cá nhân đẻ ra trăm thứ bệnh nguy hiểm:",
+    "a": "Quan liêu, mệnh lệnh, bè phái, chủ quan, tham ô, lãng phí.",
+    "b": "Quan liêu, mệnh lệnh, bè phái, chủ quan.",
+    "c": "Quan liêu, mệnh lệnh, bè phái.",
+    "d": "Quan liêu, mệnh lệnh.",
+    "ans": "a"
+  },
+  {
+    "num": 12,
+    "q": "Tác phẩm Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân của Chủ tịch Hồ Chí Minh ra đời vào thời gian nào?",
+    "a": "01/1969",
+    "b": "02/1969",
+    "c": "3/1969",
+    "d": "4/1969.",
+    "ans": "b"
+  },
+  {
+    "num": 13,
+    "q": "Vấn đề nào không thuộc Năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc theo tư tưởng Hồ Chí Minh?",
+    "a": "Xây dựng chính trị: dân quyền",
+    "b": "Xây dựng xã hội: xã hội chủ nghĩa",
+    "c": "Xây dựng luân lý: biết hy sinh mình, làm lợi cho quần chúng",
+    "d": "Xây dựng tâm lý: tinh thần độc lập tự cường",
+    "ans": "b"
+  },
+  {
+    "num": 14,
+    "q": "Những căn bệnh nào trong bộ máy nhà nước mà Hồ Chí Minh gọi là \"giặc nội xâm\"?",
+    "a": "Trái phép, chia rẽ, kiêu ngạo",
+    "b": "Cậy thế, hủ hoá, tư túng",
+    "c": "Tham ô, lãng phí, quan liêu",
+    "d": "Đặc quyền, đặc lợi Tài liệu tham khảo môn Triết - Anh Huy",
+    "ans": "c"
+  },
+  {
+    "num": 15,
+    "q": "Luận điểm của Hồ Chí Minh: “Cũng như sông có nguồn thì mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân” được trích trong tác phẩm nào?",
+    "a": "Đường cách mệnh",
+    "b": "Sửa đổi lối làm việc",
+    "c": "Di chúc",
+    "d": "Đạo đức cách mạng",
+    "ans": "b"
+  },
+  {
+    "num": 16,
+    "q": "Tác phẩm Đạo đức cách mạng của Chủ tịch Hồ Chí Minh ra đời vào thời gian nào?",
+    "a": "9/1958",
+    "b": "11/1958",
+    "c": "12/1958",
+    "d": "10/1958",
+    "ans": "c"
+  },
+  {
+    "num": 17,
+    "q": "Trong Năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc, Hồ Chí Minh chủ trương xây dựng vấn đề tâm lý với nội dung gì?",
+    "a": "Tinh thần độc lập, tự cường",
+    "b": "Dân chủ",
+    "c": "Dân quyền",
+    "d": "Biết hy sinh mình, làm lợi cho quần chúng",
+    "ans": "a"
+  },
+  {
+    "num": 18,
+    "q": "Định nghĩa văn hóa được Hồ Chí Minh đưa ra khi nào?",
+    "a": "8/1943",
+    "b": "5/1941",
+    "c": "9/1942",
+    "d": "12/1944",
+    "ans": "a"
+  },
+  {
+    "num": 19,
+    "q": "“Hiểu chủ nghĩa Mác-Lênin là phải sống với nhau có tình có nghĩa. Nếu thuộc bao nhiêu sách mà sống không có tình có nghĩa thì sao gọi là hiểu chủ nghĩa Mác Lênin được”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Ý kiến về việc làm và xuất bản loại sách “Người tốt việc tốt”, 1968",
+    "b": "Sự nghiệp vĩ đại của Lênin, 1952",
+    "c": "Sửa đổi lối làm việc, 1947",
+    "d": "Bài nói tại Đại hội anh hùng, chiến sỹ thi đua chống Mỹ, cứu nước, 1966",
+    "ans": "a"
+  },
+  {
+    "num": 20,
+    "q": "Trong Năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc, Hồ Chí Minh chủ trương xây dựng vấn đề chính trị với nội dung gì?",
+    "a": "Dân chủ",
+    "b": "Dân quyền",
+    "c": "Biết hy sinh mình, làm lợi cho quần chúng",
+    "d": "Tinh thần độc lập, tự cường",
+    "ans": "b"
+  },
+  {
+    "num": 21,
+    "q": "Hồ Chí Minh đã đề cập đến đạo đức trong những quan hệ nào của con người?",
+    "a": "Đối với việc Tài liệu tham khảo môn Triết - Anh Huy",
+    "b": "Cả 3 phương án trên đều đúng",
+    "c": "Đối với người",
+    "d": "Đối với mình",
+    "ans": "b"
+  },
+  {
+    "num": 22,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2015 là gì?",
+    "a": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về trung thực, trách nhiệm; gắn bó với nhân dân; đoàn kết, xây dựng Đảng trong sạch, vững mạnh.",
+    "b": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về phòng,chống suy thoái tư tưởng, chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ;.",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, phong cách gương mẫu, nói đi đôi với làm.",
+    "d": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên;",
+    "ans": "a"
+  },
+  {
+    "num": 23,
+    "q": "Trong quá trình xây dựng nền văn hóa giáo dục ở Việt Nam, Hồ Chí Minh đã đưa ra một hệ thống quan điểm định hướng cho nền giáo dục phát triển đúng hướng. Quan điểm nào dưới đây không phải của Hồ Chí Minh?",
+    "a": "Mục tiêu văn hóa giáo dục.",
+    "b": "Nội dung giáo dục.",
+    "c": "Kết quả giáo dục.",
+    "d": "Phương châm, phương pháp giáo dục. triển của xã hội. Với sứ mệnh “Trồng người”, văn hóa giáo dục đào tạo con người mới, cán bộ mới, nguồn nhân lực chất lượng cao cho sự nghiệp cách mạng - Mục tiêu của văn hóa giáo dục là để thực hiện cả ba chức năng của văn hóa thông qua việc dạy và học. Dạy và học là nhằm mở mang dân trí, nâng cao kiến thức; bồi dưỡng những tư tưởng đúng- đắn và tình cảm cao đẹp, những phẩm chất trong sáng và phong cách lành mạnh cho con người, đào tạo con người có ích cho xã hội. Văn hóa giáo dục phải đào tạo được những lớp người có đức. có tài kế tục sự nghiệp cách mạng, làm cho nước ta \"sánh vai cùng các cường quốc năm châu\". Học không phải để lấy bằng cấp mà phải thực học \"học để làm việc, làm người, làm cán bộ” - Nội dung giáo dục phải phù hợp với thực tiễn Việt Nam. Giáo dục phải toàn diện, bao gồm cả văn hóa, chính trị, khoa hoc – kỹ thuật; chuyên môn nghề nghiệp, lao động. Các nội dung này có quan hệ rất chặt chẽ với nhau. Người chỉ rõ, nếu không có trình độ văn hóa thì không tiếp thu được khoa học - kỹ thuật; không học khoa học – kỹ thuật thì không theo kịp được nhu cầu kinh tế nước nhà; song phải chú ý học chính trị, vì nếu chỉ học văn hóa mà không học chính trị thì như người nhắm mắt mà đi. Học chính trị là học chủ nghĩa Mác - Lênin, đường lối, chính sách của Đảng và Nhà nước. Học để nắm vững quan điểm, lập trường có tính nguyên tắc của Đảng, thế giới quan, phương pháp luận của chủ nghĩa Mác - Lênin. Phương pháp học phải sáng tạo, không giáo điều. Xã hội ngày càng phát triển, nhân dân ngày càng tiến bộ nên Người cho rằng phải tiến hành cải cách giáo dục, nhằm xây dựng chương trình, nội dung, phương pháp dạy và học thật khoa học, hợp lý, đáp ứng đòi hỏi của cách mạng. - Phương châm, phương pháp giáo dục: Phương châm học đi đôi với hành, lý luận phải liên hệ với thực tế, học tập phải kết hợp với lao động; phải kết hợp thật chặt chẽ ba khâu: gia đình, nhà trường và xã hội; thực hiện dân chủ bình đẳng trong giáo dục. Học ở mọi nơi, mọi lúc; học mọi người, học suốt đời. Coi trọng việc tự học, tự đào tạo và đào tạo lại. Phương pháp giáo dục phải phù hợp với mục tiêu giáo dục. Cách dạy phải phù hợp với trình độ người học, phù hợp với lứa tuổi dạy từ dễ đến khó; phải kết hợp học tập với vui chơi, giải trí lành mạnh phải dùng biện pháp nêu gương gắn liền với phong trào thi đua... - Về đội ngũ giáo viên: phải quan tâm xây dựng, bồi dưỡng được đội ngũ giáo viên có đạo đức cách mạng, yêu nghề, yên tâm công tác, đoàn kết và hợp tác với đồng nghiệp, giỏi về chuyên môn, thuần thục về phương pháp. Mỗi giáo viên phải là một tấm gương sáng về đạo đức, về học tập, \"Học không biết chán, dạy không biết mỏi\".",
+    "ans": "c"
+  },
+  {
+    "num": 24,
+    "q": "Luận điểm “nói đi đôi với làm, phải nêu gương về đạo đức” đề cập đến nội dung gì trong tư tưởng Hồ Chí Minh?3",
+    "a": "Các nguyên tắc rèn luyện đạo đức",
+    "b": "Các chuẩn mực đạo đức mới",
+    "c": "Chức năng của đạo đức",
+    "d": "Vai trò của đạo đức cách mạng Tài liệu tham khảo mô Triết - Anh Huy",
+    "ans": "a"
+  },
+  {
+    "num": 25,
+    "q": "“… Đạo đức cách mạng không phải trên trời sa xuống. Nó do đấu tranh, rèn luyện bền bỉ hằng ngày mà phát triển và củng cố. Củng như ngọc càng mài càng sáng, vàng càng luyện càng trong”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Sửa đổi lối làm việc (10/1947)",
+    "b": "Cần tẩy sạch bệnh quan liêu, mệnh lệnh (9/1951)",
+    "c": "Cần, kiệm, liêm, chính (6/1949)",
+    "d": "Đạo đức cách mạng (12/1958)",
+    "ans": "d"
+  },
+  {
+    "num": 26,
+    "q": "Vận dụng tư tưởng Hồ Chí Minh về văn hoá hiện nay cần:",
+    "a": "Giữ gìn và phát huy bản sắc văn hoá dân tộc",
+    "b": "Chống văn hoá phản tiến bộ",
+    "c": "Cả 3 phương án trên",
+    "d": "Tiếp thu tinh hoa văn hoá nhân loại",
+    "ans": "c"
+  },
+  {
+    "num": 27,
+    "q": "Chủ tịch Hồ Chí Minh đã nói như thế nào về hình phạt đối với tệ tham ô, lãng phí tiêu cực…?",
+    "a": "Cả (1) và (3).",
+    "b": "(3) Pháp luật phải thẳng tay trừng trị những kẻ bất liêm, bất kỳ kẻ ấy ở địa vị nào, làm nghề nghiệp gì.",
+    "c": "(1) Cần có những pháp luật để trừng trị tệ tham ô, lãng phí, và phải chấp hành những pháp luật ấy một cách nghiêm chỉnh…",
+    "d": "(2) Không xử bắn bọn ăn hối lộ mà xử nhẹ như thế, là một việc xấu hổ cho những người cộng sản, những người cách mạng.",
+    "ans": "a"
+  },
+  {
+    "num": 28,
+    "q": "“… Chúng ta không sợ sai lầm, chỉ sợ phạm sai lầm mà không quyết tâm sửa chữa. Muốn sửa chữa cho tốt thì phải sẵn sàng nghe quần chúng phê bình và thật thà tự phê bình. Không chịu nghe phê bình và không tự phê bình thì nhất định lạc hậu, thoái bộ. Lạc hậu và thoái bộ thì sẽ bị quần chúng bỏ rơi. Đó là kết quả tất nhiên của chủ nghĩa cá nhân”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Cần tẩy sạch bệnh quan liêu, mệnh lệnh (9/1951)",
+    "b": "Thực hành tiết kiệm, chống tham ô, lãng phí, chống bệnh quan liêu (5/1952)",
+    "c": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (3/2/1969)",
+    "d": "Đạo đức cách mạng (12/1958)",
+    "ans": "d"
+  },
+  {
+    "num": 29,
+    "q": "Theo Hồ Chí Minh, để văn hóa phát triển tự do thì phải thực hiện cách mạng gì trước?",
+    "a": "Cách mạng chính trị",
+    "b": "Cách mạng văn hóa",
+    "c": "Cách mạng kinh tế",
+    "d": "Cách mạng ruộng đất",
+    "ans": "a"
+  },
+  {
+    "num": 30,
+    "q": "Theo tư tưởng Hồ Chí Minh, yếu tố nào là gốc của người cách mạng",
+    "a": "Đạo đức",
+    "b": "Tài năng",
+    "c": "Kỹ năng",
+    "d": "Văn hóa",
+    "ans": "a"
+  },
+  {
+    "num": 31,
+    "q": "Theo Hồ Chí Minh, giải phóng con người là giải phóng như thế nào?",
+    "a": "Giải phóng con người khỏi áp bức, bất công",
+    "b": "Giải phóng con người về kinh tế, văn hóa Tài liệu tha khảo môn Triết - Anh Huy",
+    "c": "Giải phóng con người về kinh tế, chính trị",
+    "d": "Giải phóng con người về chính trị, văn hóa",
+    "ans": "a"
+  },
+  {
+    "num": 32,
+    "q": "Tấm gương hết lòng, hết sức phụng sự Tổ quốc, phục vụ nhân dân của Chủ tịch Hồ Chí Minh là gì?",
+    "a": "“Tổ quốc trên hết”; “Tôi hiến cả đời tôi cho dân tộc tôi”",
+    "b": "Cả 3 phương án trên đều đúng",
+    "c": "Tất cả vì độc lập, tự do của Tổ quốc; “Không có gì quý hơn độc lập, tự do!”;",
+    "d": "Tất cả vì lợi ích của Tổ quốc và nhân dân, không dành riêng cho cá nhân và gia đình;",
+    "ans": "b"
+  },
+  {
+    "num": 33,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2010 là gì?",
+    "a": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh suốt đời phấn đấu cần, kiệm, liêm, chính, chí công vô tư, làm người công bộc tận tụy, trung thành của nhân dân, đời tư trong sáng, cuộc sống riêng giản dị;",
+    "b": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về phong cách quần chúng, dân chủ, nêu gương; nêu cao trách nhiệm gương mẫu của cán bộ, đảng viên, nhất là cán bộ lãnh đạo chủ chốt các cấp;",
+    "c": "Tư tưởng, tấm gương đạo đức Hồ Chí Minh về xây dựng Đảng ta thật sự trong sạch, vững mạnh, \"là đạo đức, là văn minh \".",
+    "d": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, chống chủ nghĩa cá nhân, nói đi đôi với làm’’;",
+    "ans": "c"
+  },
+  {
+    "num": 34,
+    "q": "Luận điểm “Vì lợi ích mười năm thì phải trồng cây, vì lợi ích trăm năm thì phải trồng người” Hồ Chí Minh mượn ý của ai?",
+    "a": "Hàn Phi Tử",
+    "b": "Mạnh Tử.",
+    "c": "Quản Trọng.",
+    "d": "Khổng Tử.",
+    "ans": "c"
+  },
+  {
+    "num": 35,
+    "q": "Phẩm chất nào dưới đây là phẩm chất trung tâm của đạo đức cách mạng trong tư tưởng đạo đức của Hồ Chí Minh?",
+    "a": "Yêu thương con người, sống có nghĩa, có tình;",
+    "b": "Tinh thần quốc tế trong sáng.",
+    "c": "Cần, kiệm, liêm, chính, chí công, vô tư;",
+    "d": "Trung với nước, hiếu với dân;",
+    "ans": "d"
+  },
+  {
+    "num": 36,
+    "q": "Theo Hồ Chí Minh, nhân tố tạo nên sức hấp dẫn của chủ nghĩa xã hội là?",
+    "a": "Sự giải phóng lực lượng sản xuất.",
+    "b": "Đạo đức cách mạng.",
+    "c": "Mức sống vật chất dồi dào.",
+    "d": "Sự tự do về tư tưởng.",
+    "ans": "b"
+  },
+  {
+    "num": 37,
+    "q": "Luận điểm: “Văn hóa không thể đứng ngoài mà phải ở trong kinh tế và chính trị, phải phục vụ nhiệm vụ chính trị và thúc đẩy sự phát triển của kinh tế” thể hiện tư tưởng Hồ Chí Minh về vấn đề gì?",
+    "a": "Tính chất của văn hóa",
+    "b": "Vị trí, vai trò của văn hóa",
+    "c": "Cả 3 phương án trên",
+    "d": "Chức năng của văn hóa",
+    "ans": "b"
+  },
+  {
+    "num": 38,
+    "q": "Chuyên đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh năm 2018 là gì? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về phòng,chống suy thoái tư tưởng, chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ.",
+    "b": "Những nội dung cơ bản của tư tưởng, đạo đức, phong cách Hồ Chí Minh;",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, phong cách gương mẫu, nói đi đôi với làm.",
+    "d": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên;",
+    "ans": "d"
+  },
+  {
+    "num": 39,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2009 là gì?",
+    "a": "Chấn chỉnh kỷ luật, kỷ cương, nâng cao ý thức trách nhiệm, phát triển kinh tế bền vững.",
+    "b": "Học tập tấm gương Chủ tịch Hồ Chí Minh về thực hành tiết kiệm, chống tham nhũng, lãng phí, quan liêu;",
+    "c": "Nâng cao ý thức trách nhiệm, hết lòng, hết sức phụng sự Tổ quốc, phục vụ nhân dân;",
+    "d": "Nâng cao nhận thức về đạo đức và tấm gương đạo đức Hồ Chí Minh, tổ chức động viên toàn Đảng, toàn xã hội tích cực tham gia Cuộc vận động;",
+    "ans": "c"
+  },
+  {
+    "num": 40,
+    "q": "Chọn đáp án trả lời đúng nhất: Việc tu dưỡng đạo đức ở mỗi người phải được thực hiện trong:",
+    "a": "Trong đời tư và đời công.",
+    "b": "Mọi hoạt động thực tiễn",
+    "c": "Mọi mối quan hệ xã hội",
+    "d": "Mọi hoạt động thực tiễn, mọi mối quan hệ xã hội",
+    "ans": "d"
+  },
+  {
+    "num": 41,
+    "q": "“Đứng về phía cán bộ mà nói, ăn cắp của công làm của tư. Đục khoét của nhân dân. Ăn bớt của bộ đội. Tiêu ít mà khai nhiều, lợi dụng của chung của Chính phủ để làm quỹ riêng cho địa phương mình, đơn vị mình cũng là tham ô. Đứng về phía nhân dân mà nói, tham ô là: “ăn cắp của công, khai gian, lậu thuế”, “tham ô, lãng phí và bệnh quan liêu là kẻ thù của nhân dân, của bộ đội và của Chính phủ”. Chống loại kẻ địch này khó khăn, phức tạp hơn ngay cả so với đánh giặc ngoại xâm”. Đoạn trích trên trong bài nói chuyện nào của Chủ tịch Hồ Chí Minh?",
+    "a": "Bài nói chuyện về thực hành tiết kiệm, chống tham ô, lãng phí, chống bệnh quan liêu",
+    "b": "Bài nói chuyện tại lớp đào tạo hướng dẫn viên các trại hè cấp I",
+    "c": "Bài nói tại lớp chỉnh Đảng Trung ương khoá 2",
+    "d": "Bài nói chuyện với cán bộ tỉnh Thanh Hoá.",
+    "ans": "a"
+  },
+  {
+    "num": 42,
+    "q": "Theo tư tưởng Hồ Chí Minh, mục tiêu của văn hoá giáo dục là:",
+    "a": "Thực hiện cả ba chức năng của văn hoá bằng giáo dục",
+    "b": "Nâng cao dân trí",
+    "c": "Bồi dưỡng những phẩm chất tốt đẹp, những phong cách lành mạnh",
+    "d": "Bồi dưỡng tư tưởng đúng đắn và tình cảm cao đẹp",
+    "ans": "a"
+  },
+  {
+    "num": 43,
+    "q": "“Mỗi cán bộ, đảng viên phải đặt lợi ích của cách mạng, của Đảng, của nhân dân lên trên hết, trước hết. Phải kiên quyết quét sạch chủ nghĩa cá nhân, nâng cao đạo đức cách mạng, bồi dưỡng tư tưởng tập thể, tinh thần đoàn kết, tính tổ chức và kỷ luật”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (3/2/1969)",
+    "b": "Sửa đổi lối làm việc (10/1947)",
+    "c": "Bài nói ở lớp huấn luyện đảng viên mới (5/1966)",
+    "d": "Diễn văn khai mạc Đại hội Đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9/1960)",
+    "ans": "a"
+  },
+  {
+    "num": 44,
+    "q": "Theo Hồ Chí Minh phẩm chất đạo đức nào gắn liền với hoạt động hàng ngày của mỗi con người? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Có tinh thần quốc tế trong sáng",
+    "b": "Cần, kiệm, liêm, chính, chí công vô tư.",
+    "c": "Yêu thương con người.",
+    "d": "Trung với nước, hiếu với dân.",
+    "ans": "b"
+  },
+  {
+    "num": 45,
+    "q": "Nguyên tắc xây dựng đạo đức mới theo tư tưởng Hồ Chí Minh là gì?",
+    "a": "Cả 3 phương án trên đều đúng",
+    "b": "Xây đi đôi với chống;",
+    "c": "Nói đi đôi với làm, phải nêu gương về đạo đức;",
+    "d": "Phải tu dưỡng đạo đức suốt đời, kiên trì, bền bỉ hằng ngày;",
+    "ans": "a"
+  },
+  {
+    "num": 46,
+    "q": "Nội dung nào sau đây không thuộc quan điểm Hồ Chí Minh về văn hóa văn nghệ?",
+    "a": "Phải có những tác phẩm văn nghệ xứng đáng với thời đại mới.",
+    "b": "Ngòi bút và các tác phẩm là vũ khí.",
+    "c": "Văn nghệ phải phục vụ cho đại chúng.",
+    "d": "Văn hóa văn nghệ là một mặt trận.",
+    "ans": "c"
+  },
+  {
+    "num": 47,
+    "q": "Trong Năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc, Hồ Chí Minh chủ trương xây dựng vấn đề xã hội với nội dung gì?",
+    "a": "Mọi sự nghiệp phúc lợi của nhân dân",
+    "b": "Tinh thần độc lập, tự cường",
+    "c": "Biết hy sinh mình, làm lợi cho quần chúng",
+    "d": "Dân chủ",
+    "ans": "a"
+  },
+  {
+    "num": 48,
+    "q": "Theo Hồ Chí Minh, vai trò của đạo đức được xác định là:",
+    "a": "Vũ khí của người cách mạng",
+    "b": "Chỗ dựa của người cách mạng",
+    "c": "Hành trang của người cách mạng",
+    "d": "Nền tảng của người cách mạng",
+    "ans": "d"
+  },
+  {
+    "num": 49,
+    "q": "Tác phẩm đầu tiên của Hồ Chí Minh đề cập đến đạo đức cách mạng là tác phẩm nào?",
+    "a": "Thường thức chính trị (1953)",
+    "b": "Đường cách mệnh (1927)",
+    "c": "Bản án chế độ thực dân Pháp (1925)",
+    "d": "Đạo đức cách mạng (1958)",
+    "ans": "b"
+  },
+  {
+    "num": 50,
+    "q": "“…Vì ham danh vọng và địa vị, cho nên khi phụ trách một bộ phận nào, thì lôi người này, kéo người khác, ưa ai thì kéo vào, không ưa thì tìm cách tẩy ra. Thế là chỉ biết có mình, chỉ biết có một bộ phận mà quên cả Đảng. Đó là là một thứ bệnh hẹp hòi, trái hẳn với nguyên tắc tập trung và thống nhất của Đảng”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Diễn văn khai mạc Đại hội Đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9/1960)",
+    "b": "Sửa đổi lối làm việc (10/1947) Tài liệu t am khảo môn Triết - Anh Huy",
+    "c": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (3/2/1969)",
+    "d": "Bài nói ở lớp huấn luyện đảng viên mới (5/1966)",
+    "ans": "b"
+  },
+  {
+    "num": 51,
+    "q": "“Một dân tộc biết cần, kiệm, biết liêm, là một dân tộc giàu về vật chất, mạnh về tinh thần, là một dân tộc văn minh tiến bộ. Dân tộc ta đang kháng chiến và kiến quốc, đang xây dựng một Đời sống mới trong nước Việt Nam mới. Chẳng những chúng ta phải cần, kiệm, chúng ta còn phải thực hành chữ Liêm”. Đoạn trích trên nằm trong tác phẩm nào của Chủ tịch Hồ Chí Minh?",
+    "a": "Lời phát biểu trong phiên họp Hội đồng Chính phủ, 11-1950.",
+    "b": "Cần Kiệm Liêm Chính, 6-1949",
+    "c": "Chớ kiêu ngạo, phải khiêm tốn, ký tên C.B, Báo Nhân Dân, số 194, từ 13 đến 15-6-1954.",
+    "d": "Bài nói chuyện với bộ đội, công an và cán bộ trước khi vào tiếp quản Thủ đô, 5-9-1954.",
+    "ans": "b"
+  },
+  {
+    "num": 52,
+    "q": "Định nghĩa văn hóa được Hồ Chí Minh đưa ra trong tác phẩm nào?",
+    "a": "Đời sống mới",
+    "b": "Bản án chế độ thực dân Pháp",
+    "c": "Đường cách mệnh",
+    "d": "Nhật ký trong tù",
+    "ans": "d"
+  },
+  {
+    "num": 53,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2008 là gì?",
+    "a": "Chấn chỉnh kỷ luật, kỷ cương, nâng cao ý thức trách nhiệm, phát triển kinh tế bền vững.",
+    "b": "Nâng cao ý thức trách nhiệm, hết lòng, hết sức phụng sự Tổ quốc, phục vụ nhân dân;",
+    "c": "Nâng cao nhận thức về đạo đức và tấm gương đạo đức Hồ Chí Minh, tổ chức động viên toàn Đảng, toàn xã hội tích cực tham gia Cuộc vận động;",
+    "d": "Học tập tấm gương Chủ tịch Hồ Chí Minh về thực hành tiết kiệm, chống tham nhũng, lãng phí, quan liêu;",
+    "ans": "d"
+  },
+  {
+    "num": 54,
+    "q": "Luận điểm của Đảng cộng sản Việt Nam: “Con người là trung tâm của chiến lược phát triển, đồng thời là chủ thể phát triển. Tôn trọng và bảo vệ quyền con người, gắn quyền con người với quyền và lợi ích của dân tộc, đất nước và quyền làm chủ của nhân dân” được đề cập tới trong văn kiện nào?",
+    "a": "Nghị quyết Hội nghị lần thứ 5 Ban chấp hành trung ương khóa VIII",
+    "b": "Văn kiện Đại hội đại biểu toàn quốc lần thứ XI",
+    "c": "Văn kiện Đại hội đại biểu toàn quốc lần thứ XII",
+    "d": "Cương lĩnh xây dưng đất nước trong thời kỳ quá độ lên chủ nghĩa xã hội (bổ sung, phát triển năm 2011.",
+    "ans": "d"
+  },
+  {
+    "num": 55,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2007 là gì?",
+    "a": "Học tập tấm gương Chủ tịch Hồ Chí Minh về thực hành tiết kiệm, chống tham nhũng, lãng phí, quan liêu;",
+    "b": "Nâng cao ý thức trách nhiệm, hết lòng, hết sức phụng sự Tổ quốc, phục vụ nhân dân;",
+    "c": "Đẩy mạnh học tập và làm theo tấm gương đạo đức Hồ Chí Minh trong giai đoạn hiện nay;",
+    "d": "Chấn chỉnh kỷ luật, kỷ cương, nâng cao ý thức trách nhiệm, phát triển kinh tế bền vững.",
+    "ans": "c"
+  },
+  {
+    "num": 56,
+    "q": "Chuyên đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh năm 2016 là gì?",
+    "a": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên",
+    "b": "Những nội dung cơ bản của tư tưởng, đạo đức, phong cách Hồ Chí Minh",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, phong cách gương mẫu, nói đi đôi với làm.",
+    "d": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về phòng,chống suy thoái tư tưởng, chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ.",
+    "ans": "c"
+  },
+  {
+    "num": 57,
+    "q": "Nội dung “bồi dưỡng những phẩm chất, phong cách và lối sống tốt đẹp, lành mạnh, hướng con người đến chân, thiện mỹ để hoàn thiện bản thân” thuộc vấn đề gì của văn hóa?",
+    "a": "Chức năng của văn hóa Tài liệu tham khảo mô Triết - Anh Huy",
+    "b": "Vai trò của văn hóa",
+    "c": "Vị trí của văn hóa",
+    "d": "Tính chất của văn hóa",
+    "ans": "b"
+  },
+  {
+    "num": 58,
+    "q": "Khi nói về đạo đức cách mạng, Chủ tịch Hồ Chí Minh đã nói tóm tắt thành ý nào dưới đây?",
+    "a": "Tóm lại, phải đi đúng đường lối quần chúng. Thế là có tinh thần trách nhiệm đối với Đảng, đối với Chính phủ, đối với nhân dân;",
+    "b": "Nhận rõ phải, trái. Giữ vững lập trường. Tận trung với nước. Tận hiếu với dân;",
+    "c": "Cần, kiệm, liêm, chính, chí công vô tư;",
+    "d": "Làm cho dân có ăn. Làm cho dân có mặc. Làm cho dân có chỗ ở. Làm cho dân có học hành.",
+    "ans": "b"
+  },
+  {
+    "num": 59,
+    "q": "Luận điểm: “Nói chung thì các dân tộc phương Đông đều giàu tình cảm, và đối với họ một tấm gương sống còn giá trị hơn một trăm bài diễn văn tuyên truyền” đề cập đến nội dung gì trong tư tưởng Hồ Chí Minh?",
+    "a": "Chức năng của đạo đức",
+    "b": "Vai trò của đạo đức cách mạng",
+    "c": "Các chuẩn mực đạo đức mới",
+    "d": "Các nguyên tắc rèn luyện đạo đức",
+    "ans": "d"
+  },
+  {
+    "num": 60,
+    "q": "Các câu nói dưới đây, câu nói nào là của Chủ tịch Hồ Chí Minh?",
+    "a": "Kiến thiết cần có nhân tài. Nhân tài nước ta dù chưa có nhiều lắm nhưng nếu chúng ta khéo lựa chọn, khéo phân phối, khéo dùng thì nhân tài càng ngày càng phát triển càng thêm nhiều.",
+    "b": "Tài to ta dùng làm việc to, tài nhỏ ta cắt làm việc nhỏ, ai có năng lực về việc gì, ta đặt ngay vào việc ấy. Biết dùng người như vậy, ta sẽ không lo gì thiếu cán bộ.",
+    "c": "Cả 3 phương án trên.",
+    "d": "Phải trọng nhân tài, trọng cán bộ, trọng mỗi một người có ích cho công việc chung của chúng ta.",
+    "ans": "c"
+  },
+  {
+    "num": 61,
+    "q": "Đâu là những câu nói của Chủ tịch Hồ Chí Minh:",
+    "a": "Cả 3 đáp án trên.",
+    "b": "Làm việc lối bàn giấy. Thích làm việc bằng giấy tờ thật nhiều. Ngồi một nơi chỉ tay năm ngón không chịu xuống địa phương kiểm tra công tác và để chỉ vạch những kế hoạch thi hành chỉ thị, nghị quyết của đoàn thể cho chu đáo… Cái lối làm việc như vậy rất có hại. Nó làm cho chúng ta không đi sát phong trào, không hiểu rõ được tình hình bên dưới, cho nên phần nhiều chủ trương của chúng ta không thi hành được đến nơi đến chốn.",
+    "c": "Bệnh kiêu ngạo - Tự cao, tự đại, ham địa vị, hay lên mặt. Ưa người ta tang bốc mình, khen ngợi mình. Ưa sai khiến người khác. Hễ làm được việc gì hơi thành công thì khoe khoang vênh váo, cho ai cũng không bằng mình. Không thèm học hỏi quần chúng, không muốn cho người ta phê bình. Việc gì cũng làm thầy người khác.",
+    "d": "Óc quân phiệt quan liêu. Khi phụ trách ở một vùng nào thì như một ông vua con ở đấy, tha hồ hách dịch, hoạnh họe. Đối với cấp trên thì xem thường, đối với cấp dưới cậy quyền lấn áp. Đối với quần chúng ra vẻ quan cách làm cho quần chúng sợ hãi. Cái đầu óc “ông tướng, bà tướng” ấy đã gây ra bao ác cảm, bao chia rẽ, làm cho cấp trên xa cấp dưới, đoàn thể ra nhân dân.",
+    "ans": "a"
+  },
+  {
+    "num": 62,
+    "q": "Khái niệm con người trong tư tưởng Hồ Chí Minh để chỉ …",
+    "a": "Con người cụ thể gắn với hoàn cảnh lịch sử cụ thể",
+    "b": "Một con người cụ thể",
+    "c": "Con người nói chung",
+    "d": "Một cộng đồng người",
+    "ans": "a"
+  },
+  {
+    "num": 63,
+    "q": "Chuyên đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh năm 2019 là gì? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên;",
+    "b": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về phòng,chống suy thoái tư tưởng, chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ.",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, phong cách gương mẫu, nói đi đôi với làm.",
+    "d": "Xây dựng ý thức tôn trọng Nhân dân, phát huy dân chủ, chăm lo đời sống Nhân dân theo tư tưởng, đạo đức, phong cách Hồ Chí Minh;",
+    "ans": "d"
+  },
+  {
+    "num": 64,
+    "q": "Theo Hồ Chí Minh, “cần” có nghĩa là?",
+    "a": "Lao động có kế hoạch",
+    "b": "Lao động có hiệu quả",
+    "c": "Cả 3 phương án trên",
+    "d": "Siêng năng, chăm chỉ",
+    "ans": "c"
+  },
+  {
+    "num": 65,
+    "q": "Luận điểm: “Mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân” được Hồ Chí Minh đề cập đến trong tác phẩm nào?",
+    "a": "Cương lĩnh chính trị đầu tiên",
+    "b": "Di chúc",
+    "c": "Đạo đức cách mạng",
+    "d": "Đường cách mệnh",
+    "ans": "b"
+  },
+  {
+    "num": 66,
+    "q": "Chuyên đề học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh năm 2017 là gì?",
+    "a": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về xây dựng phong cách, tác phong công tác của người đứng đầu, của cán bộ, đảng viên;",
+    "b": "Những nội dung cơ bản của tư tưởng, đạo đức, phong cách Hồ Chí Minh;",
+    "c": "Học tập và làm theo tư tưởng, đạo đức, phong cách Hồ Chí Minh về phòng, chống suy thoái tư tưởng chính trị, đạo đức, lối sống, “tự diễn biến”, “tự chuyển hóa” trong nội bộ;",
+    "d": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, phong cách gương mẫu, nói đi đôi với làm.",
+    "ans": "c"
+  },
+  {
+    "num": 67,
+    "q": "Luận điểm: “Cũng như sông thì có nguồn mới có nước, không có nguồn thì sông cạn. Cây phải có gốc, không có gốc thì cây héo. Người cách mạng phải có đạo đức, không có đạo đức thì dù tài giỏi mấy cũng không lãnh đạo được nhân dân” thuộc nội dung tư tưởng Hồ Chí Minh về?",
+    "a": "Chức năng của đạo đức",
+    "b": "Các chuẩn mực đạo đức mới",
+    "c": "Vai trò của đạo đức cách mạng",
+    "d": "Các nguyên tắc rèn luyện đạo đức",
+    "ans": "c"
+  },
+  {
+    "num": 68,
+    "q": "Chọn một đáp án đúng điền vào chỗ trống để hoàn thiện câu sau của Hồ Chí Minh: \"Chống …………… và bệnh quan liêu cũng quan trọng và cần kíp như việc đánh giặc trên mặt trận\".",
+    "a": "Phá hoại của công",
+    "b": "Vi phạm kỷ luật",
+    "c": "Tham ô, lãng phí",
+    "d": "Lãng phí",
+    "ans": "c"
+  },
+  {
+    "num": 69,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2013 là gì? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Tư tưởng, tấm gương đạo đức Hồ Chí Minh về xây dựng Đảng ta thật sự trong sạch, vững mạnh, \"là đạo đức, là văn minh \".",
+    "b": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh suốt đời phấn đấu cần, kiệm, liêm, chính, chí công vô tư, làm người công bộc tận tụy, trung thành của nhân dân, đời tư trong sáng, cuộc sống riêng giản dị;",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về phong cách quần chúng, dân chủ, nêu gương; nêu cao trách nhiệm gương mẫu của cán bộ, đảng viên, nhất là cán bộ lãnh đạo chủ chốt các cấp;",
+    "d": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, chống chủ nghĩa cá nhân, nói đi đôi với làm’’;",
+    "ans": "c"
+  },
+  {
+    "num": 70,
+    "q": "Theo Hồ Chí Minh, chuẩn mực đạo đức quan trọng nhất đối với người cách mạng là?",
+    "a": "Có tinh thần quốc tế trong sáng",
+    "b": "Yêu thương con người",
+    "c": "Trung với nước, hiếu với dân",
+    "d": "Cần, kiệm, liêm, chính, chí công vô tư",
+    "ans": "c"
+  },
+  {
+    "num": 71,
+    "q": "Theo Hồ Chí Minh, chuẩn mực đạo đức nào là mới so với quan niệm đạo đức truyền thống của người Việt Nam?",
+    "a": "Trung với nước, hiếu với dân",
+    "b": "Yêu thương con người",
+    "c": "Có tinh thần quốc tế trong sáng",
+    "d": "Cần, kiệm, liêm, chính, chí công vô tư",
+    "ans": "a"
+  },
+  {
+    "num": 72,
+    "q": "Theo Chủ tịch Hồ Chí Minh, Đảng cần làm gì để nâng cao tinh thần trách nhiệm, hết lòng, hết sức phụng sự Tổ quốc, phục vụ nhân dân?",
+    "a": "Giáo dục cán bộ, đảng viên và nhân dân nhận thức sâu sắc, toàn diện hơn về Đảng;",
+    "b": "Phải xây dựng đội ngũ cán bộ, đảng viên thực sự có đạo đức cách mạng;",
+    "c": "Cả 3 phương án trên đều đúng.",
+    "d": "Phải giữ nghiêm kỷ luật trong Đảng;",
+    "ans": "c"
+  },
+  {
+    "num": 73,
+    "q": "Trong quan điểm của Hồ Chí Minh về chiến lược trồng người. Luận điểm nào dưới đây không đúng với tư tưởng Hồ Chí Minh?",
+    "a": "Muốn xây dựng chủ nghĩa xã hội, trước hết phải có con người xã hội chủ nghĩa.",
+    "b": "Trồng người là yêu cầu khách quan, vừa cấp bách, vừa lâu dài của cách mạng. lược phát triển đất nước, có mối quan hệ chặt chẽ với nhiệm vụ xây dựng chính trị, kinh tế, văn hóa, xã hội",
+    "c": "Chiến lược trồng người là một trọng tâm, một bộ phận hợp thành của chiến lược phát triển kinh tế xã hội.",
+    "d": "Chiến lược trồng người là yếu tố tiên quyết đối với sự phát triển đất nước.",
+    "ans": "c"
+  },
+  {
+    "num": 74,
+    "q": "Việc chống những căn bệnh nào trong bộ máy nhà nước được Hồ Chí Minh so sánh giống việc cần kíp như đánh giặc trên mặt trận ?",
+    "a": "Đặc quyền, đặc lợi",
+    "b": "Tham ô, lãng phí, quan liêu",
+    "c": "Tư túng, chia rẽ, kiêu ngạo",
+    "d": "Trái phép, cậy thế, hủ hoá",
+    "ans": "b"
+  },
+  {
+    "num": 75,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2011-2012 là gì?",
+    "a": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh suốt đời phấn đấu cần, kiệm, liêm, chính, chí công vô tư, làm người công bộc tận tụy, trung thành của nhân dân, đời tư trong sáng, cuộc sống riêng giản dị; Tài liệu t am khảo môn Triết - Anh Huy",
+    "b": "Tư tưởng, tấm gương đạo đức Hồ Chí Minh về xây dựng Đảng ta thật sự trong sạch, vững mạnh, \"là đạo đức, là văn minh \".",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, chống chủ nghĩa cá nhân, nói đi đôi với làm’’;",
+    "d": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về phong cách quần chúng, dân chủ, nêu gương; nêu cao trách nhiệm gương mẫu của cán bộ, đảng viên, nhất là cán bộ lãnh đạo chủ chốt các cấp;",
+    "ans": "a"
+  },
+  {
+    "num": 76,
+    "q": "Chủ tịch Hồ Chí Minh luôn luôn nêu rõ phải kiên quyết chống tham ô, lãng phí, quan liêu, vì sao?",
+    "a": "Cả 3 phương án trên đều đúng.",
+    "b": "Chống tham ô, lãng phí, quan liêu là dân chủ;",
+    "c": "Chống tham ô, lãng phí, quan liêu là cách mạng;",
+    "d": "Chống tham ô, lãng phí, quan liêu sẽ giúp cách mạng mau đi tới thắng lợi.",
+    "ans": "a"
+  },
+  {
+    "num": 77,
+    "q": "Chuyên đề học tập và làm theo tấm gương đạo đức Hồ Chí Minh năm 2014 là gì?",
+    "a": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh suốt đời phấn đấu cần, kiệm, liêm, chính, chí công vô tư, làm người công bộc tận tụy, trung thành của nhân dân, đời tư trong sáng, cuộc sống riêng giản dị;",
+    "b": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về phong cách quần chúng, dân chủ, nêu gương; nêu cao trách nhiệm gương mẫu của cán bộ, đảng viên, nhất là cán bộ lãnh đạo chủ chốt các cấp;",
+    "c": "Học tập và làm theo tấm gương đạo đức Hồ Chí Minh về nêu cao tinh thần trách nhiệm, chống chủ nghĩa cá nhân, nói đi đôi với làm’’;",
+    "d": "Tư tưởng, tấm gương đạo đức Hồ Chí Minh về xây dựng Đảng ta thật sự trong sạch, vững mạnh, \"là đạo đức, là văn minh \".",
+    "ans": "c"
+  },
+  {
+    "num": 78,
+    "q": "Tìm cụm từ đúng nhất để điền vào chỗ trống trong câu nói sau của Chủ tịch Hồ Chí Minh: “Trước mặt quần chúng, không phải ta cứ viết lên trán chữ “…” mà ta được họ yêu mến. Quần chúng chỉ quý mến những người có tư cách, đạo đức. Muốn hướng dẫn nhân dân, mình phải làm mực thước cho người ta bắt chước”.",
+    "a": "Cộng sản",
+    "b": "Đảng viên",
+    "c": "Cán bộ",
+    "d": "Quan cách mạng",
+    "ans": "a"
+  },
+  {
+    "num": 79,
+    "q": "Theo Hồ Chí Minh, “liêm” có nghĩa là?",
+    "a": "Không tham lam",
+    "b": "Tôn trọng của công, tôn trọng của dân",
+    "c": "Cả 3 phương án trên",
+    "d": "Trong sạch",
+    "ans": "c"
+  },
+  {
+    "num": 80,
+    "q": "Trong Năm điểm lớn định hướng cho việc xây dựng nền văn hóa dân tộc, Hồ Chí Minh chủ trương xây dựng vấn đề luân lý với nội dung gì?",
+    "a": "Dân chủ",
+    "b": "Dân quyền",
+    "c": "Biết hy sinh mình, làm lợi cho quần chúng",
+    "d": "Tinh thần độc lập, tự cường",
+    "ans": "c"
+  },
+  {
+    "num": 81,
+    "q": "“… Tiết kiệm không phải là bủn xỉn, không phải là “xem đồng tiền to bằng cái nống”, gặp việc đáng làm cũng không làm, đáng tiêu cũng không tiêu… Nói theo lối khoa học, thì tiết kiệm là tích cực, chứ không phải tiêu cực”. Câu nói trên của Chủ tịch Hồ Chí Minh được dẫn từ tác phẩm nào của Người dưới đây?",
+    "a": "Thực hành tiết kiệm, chống tham ô, lãng phí, chống bệnh quan liêu (5/152)",
+    "b": "Nâng cao đạo đức cách mạng, quét sạch chủ nghĩa cá nhân (3/2/1969)",
+    "c": "Cần tẩy sạch bệnh quan liêu, mệnh lệnh (9/1951) Tài liệu tham khảo môn Triết - Anh Huy",
+    "d": "Cần, kiệm, liêm, chính (6/1949)",
+    "ans": "a"
+  },
+  {
+    "num": 82,
+    "q": "Chủ tịch Hồ Chí Minh đã ví những đức tính nào của con người như trời có bốn mùa, đất có bốn phương?",
+    "a": "Trung với nước, hiếu với dân",
+    "b": "Có nghĩa, có tình",
+    "c": "Cần, kiệm, liêm, chính",
+    "d": "Chí công vô tư",
+    "ans": "c"
+  },
+  {
+    "num": 83,
+    "q": "Theo Hồ Chí Minh, một trong những chuẩn mực đạo đức cao đẹp nhất của con người là?",
+    "a": "Cần, kiệm, liêm, chính, chí công vô tư",
+    "b": "Có tinh thần quốc tế trong sáng",
+    "c": "Yêu thương con người Tài liệu tham khảo môn Triết - Anh Huy",
+    "d": "Trung với nước, hiếu với dân",
+    "ans": "c"
+  }
+]

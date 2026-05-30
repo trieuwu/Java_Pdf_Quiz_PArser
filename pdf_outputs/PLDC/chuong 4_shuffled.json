@@ -1,0 +1,533 @@
+[
+  {
+    "num": 1,
+    "q": "Tác phẩm Thường thức chính trị được Hồ Chí Minh viết khi nào?",
+    "a": "1953",
+    "b": "1950",
+    "c": "1951",
+    "d": "1952",
+    "ans": "a"
+  },
+  {
+    "num": 2,
+    "q": "Theo Hồ Chí Minh, vai trò lãnh đạo của giai cấp công nhân trong cách mạng Việt Nam do yếu tố nào quy định?",
+    "a": "Do đặc tính của giai cấp công nhân.",
+    "b": "Do đặc điểm của thời đại mới. chức, kỷ luật. Công nhân là giai cấp tiền tiến nhất trong sức sản xuất, có trách nhiệm đánh đổ chế độ tư bản và đế quốc, xây dựng một xã hội mới. Vì những lẽ đó, giai cấp công nhân có thể lĩnh hội và thấm nhuần một tư tưởng cách mạng nhất: chủ nghĩa Marx Lenin. Đồng thời, tinh thần đấu tranh của họ ảnh hưởng và làm gương cho các tầng lớp khác. Do đó, về mặt chính trị, tư tưởng, tổ chức và hành động, giai cấp công nhân đều giữ vai trò lãnh đạo)",
+    "c": "Do ý muốn của Đảng Cộng sản.",
+    "d": "Do số lượng giai cấp công nhân.",
+    "ans": "a"
+  },
+  {
+    "num": 3,
+    "q": "Cuộc Tổng tuyển cử bầu Quốc hội khóa I của Việt Nam diễn ra khi nào?",
+    "a": "3/9/1945",
+    "b": "5/9/1945",
+    "c": "6/1/1946",
+    "d": "19/12/1946",
+    "ans": "c"
+  },
+  {
+    "num": 4,
+    "q": "Hồ Chí Minh coi những căn bệnh nào là “bạn đồng minh của thực dân và phong kiến”?",
+    "a": "Cả 3 phương án trên",
+    "b": "Đặc quyền, đặc lợi",
+    "c": "Tham ô, lãng phí, quan liêu",
+    "d": "Tư túng, kiêu ngạo, chia rẽ",
+    "ans": "c"
+  },
+  {
+    "num": 5,
+    "q": "Hồ Chí Minh quan niệm dân chủ nghĩa là:",
+    "a": "Dân làm chủ",
+    "b": "Dân là chủ và dân làm chủ",
+    "c": "Dân là chủ",
+    "d": "Quyền lực thuộc về nhân dân.",
+    "ans": "b"
+  },
+  {
+    "num": 6,
+    "q": "Quan điểm : \"Đảng ta là đạo đức, là văn minh\" được Hồ Chí Minh trình bày trong tác phẩm nào?",
+    "a": "Diễn văn khai mạc Đại hội đại biểu toàn quốc lần thứ III của Đảng",
+    "b": "Diễn văn đọc tại lễ kỷ niệm 30 năm ngày thành lập Đảng",
+    "c": "Báo cáo chính trị tại Đại hội đại biểu toàn quốc lần thứ II của Đảng",
+    "d": "Sách lược vắn tắt của Đảng",
+    "ans": "b"
+  },
+  {
+    "num": 7,
+    "q": "Luận điểm sau của Hồ Chí Minh: “Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh,để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi. Đảng có vững cách mệnh mới thành công cũng như người cầm lái có vững thuyền mới chạy” thể hiện nội dung tư tưởng Hồ Chí Minh về?",
+    "a": "Vai trò của Đảng cộng sản Việt Nam",
+    "b": "Quan niệm về Đảng cầm quyền Tài liệu tham khảo môn Triết - Anh Huy",
+    "c": "Sự ra đời của Đảng cộng sản Việt Nam",
+    "d": "Bản chất của Đảng cộng sản Việt Nam",
+    "ans": "a"
+  },
+  {
+    "num": 8,
+    "q": "Đảng cộng sản Việt Nam không lãnh đạo nhà nước bằng những phương thức nào?",
+    "a": "Đảng lãnh đạo bằng Hiến pháp, pháp luật",
+    "b": "Đảng lãnh đạo bằng công tác kiểm tra",
+    "c": "Đảng lãnh đạo bằng hoạt động của các tổ chức đảng và đảng viên của mình trong bộ máy, cơ quan nhà nước.",
+    "d": "Đảng lãnh đạo bằng đường lối, chủ trương, quan điểm",
+    "ans": "a"
+  },
+  {
+    "num": 9,
+    "q": "Trong Di chúc, Chủ tịch Hồ Chí Minh đã dặn lại: “Đảng cần phải có kế hoạch thật tốt để phát triển kinh tế và văn hoá, không ngừng nâng cao đời sống của…”, tìm đáp án đúng để điền vào chỗ để trống?",
+    "a": "Các tầng lớp nhân dân",
+    "b": "Cán bộ, đảng viên",
+    "c": "Nhân dân",
+    "d": "Cả 3 phương án trên đều sai",
+    "ans": "c"
+  },
+  {
+    "num": 10,
+    "q": "Theo tư tưởng Hồ Chí Minh, việc đổi mới, chỉnh đốn Đảng được hiểu là:",
+    "a": "Khi cách mạng ở vào thời kỳ khó khan",
+    "b": "Khi Đảng không còn vững mạnh",
+    "c": "Một giải pháp tình thế",
+    "d": "Việc làm thường xuyên của Đảng",
+    "ans": "d"
+  },
+  {
+    "num": 11,
+    "q": "Theo tư tưởng Hồ Chí Minh, một nhà nước pháp quyền có hiệu lực pháp lý mạnh mẽ là…",
+    "a": "Một nhà nước không có tiêu cực, không có đặc quyền, đặc lợi",
+    "b": "Một nhà nước hợp hiến",
+    "c": "Một nhà nước của dân, do dân, vì dân",
+    "d": "Một nhà nước thống nhất, có quyền quốc gia",
+    "ans": "b"
+  },
+  {
+    "num": 12,
+    "q": "Hồ Chí Minh khẳng định: \"Lực lượng của giai cấp công nhân và nhân dân lao động là to lớn, vô cùng, vô tận, nhưng lực lượng ấy cần có Đảng mới thắng lợi\". Câu này thể hiện quan điểm nào của Hồ Chí Minh về Đảng?",
+    "a": "Đảng cộng sản là nhân tố hàng đầu đưa tới thắng lợi của cách mạng Việt Nam.",
+    "b": "ĐCSVN – Đảng của giai cấp công nhân, nhân dân lao động và của cả dân tộc.",
+    "c": "Đảng cộng sản lấy chủ nghĩa Mác – Lênin làm \"cốt\".",
+    "d": "Tăng cường củng cố mối quan hệ bền chặt giữa Đảng và dân.",
+    "ans": "a"
+  },
+  {
+    "num": 13,
+    "q": "Luận điểm: “Đảng muốn vững phải có chủ nghĩa làm cốt, trong đảng ai cũng phải hiểu, ai cũng phải theo chủ nghĩa ấy. Đảng mà không có chủ nghĩa cũng giống như người không có trí khôn, tàu không có bàn chỉ nam” thể hiện nội dung tư tưởng Hồ Chí Minh về?",
+    "a": "Xây dựng Đảng về đạo đức",
+    "b": "Xây dựng Đảng về tổ chức, bộ máy, công tác cán bộ",
+    "c": "Xây dựng Đảng về chính trị",
+    "d": "Xây dựng Đảng về tư tưởng lý luận",
+    "ans": "d"
+  },
+  {
+    "num": 14,
+    "q": "Câu trích: “Bảy xin hiến pháp ban hành; Trăm đều phải có thần linh pháp quyền” được trích trong tác phẩm nào của Hồ Chí Minh? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Việt Nam yêu cầu ca",
+    "b": "Cương lĩnh chính trị đầu tiên",
+    "c": "Bản án chế độ thực dân Pháp",
+    "d": "Đường cách mệnh",
+    "ans": "a"
+  },
+  {
+    "num": 15,
+    "q": "Lựa chọn phương án đúng điền vào chỗ trống: “Một dân tộc, một đảng, một người, ngày hôm qua là vĩ đại, không nhất định ngày hôm nay và ngày mai vẫn được ca ngợi, nếu lòng dạ không trong sáng nữa, nếu…”",
+    "a": "Vị kỷ, cá nhân.",
+    "b": "Sa vào chủ nghĩa cá nhân.",
+    "c": "Chạy theo cám dỗ vật chất.",
+    "d": "Không nghĩ đến lợi ích dân tộc.",
+    "ans": "b"
+  },
+  {
+    "num": 16,
+    "q": "Vấn đề nào không thể hiện bản chất giai cấp công nhân của Đảng cộng sản Việt Nam?",
+    "a": "Số lượng Đảng viên là công nhân",
+    "b": "Mục tiêu của Đảng là chủ nghĩa cộng sản",
+    "c": "Đảng tuân thủ những nguyên tắc xây dựng đảng kiểu mới của giai cấp công nhân",
+    "d": "Nền tảng tư tưởng, lý luận của Đảng chủ nghĩa Mác – Lênin",
+    "ans": "a"
+  },
+  {
+    "num": 17,
+    "q": "Trước lúc đi xa, Chủ tịch Hồ Chí Minh đã để lại những lời tâm huyết, căn dặn toàn Đảng: “Việc cần phải làm trước tiên là... , làm cho mỗi đảng viên, mỗi đoàn viên, mỗi chi bộ đều ra sức làm tròn nhiệm vụ Đảng giao phó cho mình, toàn tâm, toàn ý phục vụ nhân dân”, tìm đáp án đúng điền vào chỗ để trống?",
+    "a": "Xây dựng Đảng",
+    "b": "Phát triển Đảng",
+    "c": "Chỉnh đốn lại Đảng",
+    "d": "Đoàn kết trong Đảng",
+    "ans": "c"
+  },
+  {
+    "num": 18,
+    "q": "Nguyên tắc tập trung dân chủ là nguyên tắc gì của Đảng cộng sản?",
+    "a": "Nguyên tắc phê bình",
+    "b": "Nguyên tắc tổ chức",
+    "c": "Nguyên tắc lãnh đạo",
+    "d": "Nguyên tắc sinh hoạt",
+    "ans": "b"
+  },
+  {
+    "num": 19,
+    "q": "Theo Hồ Chí Minh, nhà nước của dân là nhà nước như nào?",
+    "a": "Mọi quyền lực trong xã hội đều thuộc về nhân dân",
+    "b": "Cả 3 phương án trên",
+    "c": "Nhân dân thực hiện quyền giảm sát, kiểm tra hoạt động của nhà nước",
+    "d": "Dân tổ chức nên các cơ quan nhà nước thông qua bầu cử",
+    "ans": "a"
+  },
+  {
+    "num": 20,
+    "q": "Luận điểm sau của Hồ Chí Minh: “Cách mệnh trước hết phải có cái gì? Trước hết phải có đảng cách mệnh,để trong thì vận động và tổ chức dân chúng, ngoài thì liên lạc với dân tộc bị áp bức và vô sản giai cấp mọi nơi. Đảng có vững cách mệnh mới thành công cũng như người cầm lái có vững thuyền mới chạy” được trích trong tác phẩm nào?",
+    "a": "Tuyên ngôn độc lập",
+    "b": "Ba mươi năm hoạt động của Đảng",
+    "c": "Đường cách mệnh Tài liệu tham khảo môn Triết - Anh Huy",
+    "d": "Cương lĩnh chính trị đầu tiên",
+    "ans": "c"
+  },
+  {
+    "num": 21,
+    "q": "Quan điểm: \"Đảng ta là một Đảng cầm quyền” được Hồ Chí Minh trình bày trong văn kiện nào?",
+    "a": "Chánh cương vắn tắt của Đảng",
+    "b": "Di chúc",
+    "c": "Diễn văn khai mạc Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam",
+    "d": "Báo cáo chính trị tại Đại hội lần thứ II của Đảng",
+    "ans": "b"
+  },
+  {
+    "num": 22,
+    "q": "\"Đảng ta là một Đảng cầm quyền. Mỗi đảng viên và cán bộ phải thật sự thấm nhuần đạo đức cách mạng, thật sự cần kiệm liêm chính, chí công vô tư. Phải giữ gìn Đảng ta thật trong sạch, phải xứng đáng là người lãnh đạo, là người đầy tớ thật trung thành của nhân dân”. Câu viết trên của Hồ Chí Minh ở trong tác phẩm nào của Người?",
+    "a": "Di chúc",
+    "b": "Đường cách mệnh",
+    "c": "Sửa đổi lối làm việc",
+    "d": "Đạo đức cách mạng",
+    "ans": "a"
+  },
+  {
+    "num": 23,
+    "q": "Chủ tịch Hồ Chí Minh coi nguyên tắc tự phê bình và phê bình trong hoạt động của Đảng là việc làm như thế nào? Lựa chọn đáp án đúng",
+    "a": "Việc làm hàng tháng",
+    "b": "Việc làm hàng năm",
+    "c": "Việc làm thường xuyên",
+    "d": "Việc làm có tính định kỳ",
+    "ans": "c"
+  },
+  {
+    "num": 24,
+    "q": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam phải lấy chủ nghĩa Mác - Lênin làm “cốt” có nghĩa là?",
+    "a": "Đảng cộng sản phải lấy chủ nghĩa Mác - Lênin làm chủ trương, đường lối",
+    "b": "Đảng phải lấy chủ nghĩa Mác - Lênin làm nền tảng tư tưởng",
+    "c": "Đảng cộng sản phải lấy chủ nghĩa Mác - Lênin làm học thuyết của Đảng",
+    "d": "Đảng cộng sản phải thường xuyên nâng cao nhận thức chủ nghĩa Mác – Lênin",
+    "ans": "b"
+  },
+  {
+    "num": 25,
+    "q": "Đảng cộng sản Việt Nam trở thành Đảng cầm quyền khi nào?",
+    "a": "1975 lái con thuyền cách mạng Việt Nam ngay từ khi ra đời đã trở thành đảng cầm quyền)",
+    "b": "1954",
+    "c": "1945",
+    "d": "1930",
+    "ans": "c"
+  },
+  {
+    "num": 26,
+    "q": "Đảng cộng sản Việt Nam lãnh đạo nhà nước bằng những phương thức nào?",
+    "a": "Đảng lãnh đạo bằng hệ thống chính sách",
+    "b": "Đảng lãnh đạo bằng hệ thống cơ quan của Đảng",
+    "c": "Đảng lãnh đạo bằng đường lối",
+    "d": "Đảng lãnh đạo bằng Hiến pháp, pháp luật",
+    "ans": "c"
+  },
+  {
+    "num": 27,
+    "q": "Tư tưởng về xây dựng một nhà nước mới ở Việt Nam là một nhà nước do nhân dân lao động làm chủ là của ai?",
+    "a": "Phan Bội Châu",
+    "b": "Phan Chu Trinh Tài liệu tham khảo môn Triết - Anh Huy",
+    "c": "Hồ Chí Minh",
+    "d": "Huỳnh Thúc Kháng",
+    "ans": "c"
+  },
+  {
+    "num": 28,
+    "q": "Theo Hồ Chí Minh, bản chất giai cấp công nhân của Nhà nước được thể hiện ở nội dung nào?",
+    "a": "Nhà nước do Đảng cộng sản lãnh đạo",
+    "b": "Nhà nước bảo vệ lợi ích của nhân dân, lấy lợi ích của giai cấp công nhân làm nền tảng",
+    "c": "Nhà nước ra đời là kết quả cuộc đấu tranh lâu dài và gian khổ của nhiều thế hệ người Việt Nam",
+    "d": "Nhà nước bảo vệ nền độc lập của Tổ quốc",
+    "ans": "a"
+  },
+  {
+    "num": 29,
+    "q": "Theo Hồ Chí Minh, mâu thuẫn giai cấp trong xã hội thuộc địa, nửa phong kiến Việt Nam thể hiện như thế nào?",
+    "a": "Mâu thuẫn cơ bản",
+    "b": "Mâu thuẫn được giảm thiểu",
+    "c": "Mâu thuẫn gay gắt cần được giải quyết",
+    "d": "Mâu thuẫn đối kháng",
+    "ans": "b"
+  },
+  {
+    "num": 30,
+    "q": "Theo Hồ Chí Minh, căn bệnh nào là căn bệnh gốc sinh ra bệnh tham ô, lãng phí?",
+    "a": "Đặc quyền vậy, đây là bệnh gốc sinh ra các bệnh tham ô, lãng phí; muốn trừ sạch bệnh tham ô, lãng phí thì trước hết phải tẩy sạch bệnh quan liêu",
+    "b": "Quan liêu",
+    "c": "Kiêu ngạo",
+    "d": "Tư túng",
+    "ans": "b"
+  },
+  {
+    "num": 31,
+    "q": "Theo Hồ Chí Minh, trong xây dựng Đảng cần tuân thủ những nguyên tắc nào?",
+    "a": "Cả 3 phương án trên",
+    "b": "Tập trung dân chủ",
+    "c": "Tự phê bình và phê bình",
+    "d": "Tập thể lãnh đạo, cá nhân phụ trách",
+    "ans": "a"
+  },
+  {
+    "num": 32,
+    "q": "Trong quá trình Đảng lấy chủ nghĩa Mác - Lênin làm “cốt”, theo Hồ Chí Minh cần lưu ý những vấn đề gì?",
+    "a": "Đảng phải tuyệt đối tuân thủ các chân lý tuyệt đối của chủ nghĩa Mác - Lênin luôn sáng tạo, vận dụng cho phù hợp với hoàn cảnh, từng lúc, từng nơi, không được phép giáo điều",
+    "b": "Không ngừng tổng kết kinh nghiệm của Đảng mình, học tập kinh nghiệm của các Đảng cộng sản anh em",
+    "c": "Củng cố lập trường chính trị của Đảng",
+    "d": "Củng cố mối quan hệ mật thiết giữa Đảng với dân",
+    "ans": "b"
+  },
+  {
+    "num": 33,
+    "q": "Tác phẩm “Đường cách mệnh” của Hồ Chí Minh được xuất bản khi nào?",
+    "a": "1924",
+    "b": "1930",
+    "c": "1925",
+    "d": "1927",
+    "ans": "d"
+  },
+  {
+    "num": 34,
+    "q": "Chọn đáp án trả lời đúng nhất:",
+    "a": "Cả ba đáp án trên đều sai.",
+    "b": "Tư tưởng Hồ Chí Minh là nền tảng tư tưởng, kim chỉ nam duy nhất cho hành động của Đảng ta.",
+    "c": "Chủ nghĩa Mác - Lênin là nền tảng tư tưởng, kim chỉ nam duy nhất cho hành động của Đảng ta.",
+    "d": "Cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là nền tảng tư tưởng và kim chỉ nam cho hành động cách mạng của Đảng ta. Tài liệu tham khảo môn Triết - Anh Huy",
+    "ans": "d"
+  },
+  {
+    "num": 35,
+    "q": "Luận điểm: “Đảng vừa là người lãnh đạo, vừa là người đầy tớ thật trung thành của nhân dân” thuộc nội dung tư tưởng Hồ Chí Minh về?",
+    "a": "Bản chất của Đảng cộng sản Việt Nam",
+    "b": "Về sự ra đời của Đảng cộng sản Việt Nam",
+    "c": "Quan niệm về Đảng cộng sản Việt Nam cầm quyền",
+    "d": "Vai trò của Đảng cộng sản Việt Nam",
+    "ans": "c"
+  },
+  {
+    "num": 36,
+    "q": "Nhà nước dân chủ do Hồ Chí Minh sáng lập ở Việt Nam là nhà nước gì?",
+    "a": "Nhà nước Việt Nam dân chủ cộng hòa",
+    "b": "Nhà nước dân tộc cách mạng",
+    "c": "Nhà nước cộng hòa",
+    "d": "Nhà nước chuyên chính vô sản",
+    "ans": "a"
+  },
+  {
+    "num": 37,
+    "q": "Chọn đáp án trả lời đúng nhất theo tư tưởng Hồ Chí Minh. Nhà nước Việt Nam...",
+    "a": "Mang tính dân tộc.",
+    "b": "Mang bản chất giai cấp công nhân.",
+    "c": "Có sự thống nhất bản chất giai cấp công nhân với tính nhân dân và tính dân tộc.",
+    "d": "Có tính dân tộc, tính nhân dân sâu sắc.",
+    "ans": "c"
+  },
+  {
+    "num": 38,
+    "q": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam ra đời là sự kết hợp của những nhân tố nào?",
+    "a": "Phong trào công nhân và phong trào yêu nước",
+    "b": "Chủ nghĩa Mác - Lênin và phong trào yêu nước",
+    "c": "Chủ nghĩa Mác – Lênin, phong trào công nhân và phong trào yêu nước",
+    "d": "Chủ nghĩa Mác - Lênin và phong trào công nhân",
+    "ans": "c"
+  },
+  {
+    "num": 39,
+    "q": "Chủ tịch Hồ Chí Minh đã từng khẳng định: chỉ có nhà nước thực sự … tổ chức, xây dựng và kiểm soát mới có thể là nhà nước vì dân. Tìm đáp án đúng điền vào chỗ trống?",
+    "a": "Do dân",
+    "b": "Của dân, do dân",
+    "c": "Của dân",
+    "d": "Của giai cấp công nhân",
+    "ans": "b"
+  },
+  {
+    "num": 40,
+    "q": "Theo Hồ Chí Minh, tiêu chuẩn quan trọng nhất của người cán bộ là?",
+    "a": "Hăng hái, thành thạo, giỏi chuyên môn, nghiệp vụ",
+    "b": "Dám phụ trách, dám quyết đoán, dám chịu trách nhiệm",
+    "c": "Phái có mối liên hệ mật thiết với nhân dân",
+    "d": "Tuyệt đối trung thành với cách mạng",
+    "ans": "d"
+  },
+  {
+    "num": 41,
+    "q": "\"Chế độ ta là chế độ dân chủ, tư tưởng phải được tự do. Tự do là thế nào? Đối với mọi vấn đề, mọi người tự do bày tỏ ý kiến của mình, góp phần tìm ra chân lý. Đó là quyền lợi và nghĩa vụ của mọi người. Khi mọi người đã tìm ra chân lý, lúc đó quyền tự do tư tưởng hóa ra quyền tự do phục tùng chân lý\", trong đoạn trích nêu trên Hồ Chí Minh đề cập tới vấn đề gì trong nguyên tắc xây dựng đảng?",
+    "a": "Mối quan hệ giữa tập thể lãnh đạo và cá nhân phụ trách Tài liệu tham khảo môn Triết - Anh Huy",
+    "b": "Tự do chân lý",
+    "c": "Tự do hành động",
+    "d": "Mối quan hệ giữa tập trung và dân chủ",
+    "ans": "d"
+  },
+  {
+    "num": 42,
+    "q": "Thuật ngữ Đảng cầm quyền được Hồ Chí Minh đưa ra trong tác phẩm nào?",
+    "a": "Cương lĩnh chính trị đầu tiên",
+    "b": "Đường cách mệnh",
+    "c": "Di chúc",
+    "d": "Tuyên ngôn độc lập",
+    "ans": "c"
+  },
+  {
+    "num": 43,
+    "q": "Hồ Chí Minh đã mấy lần tham gia soạn thảo Hiến pháp?",
+    "a": "3 lần",
+    "b": "2 lần",
+    "c": "1 lần",
+    "d": "4 lần",
+    "ans": "b"
+  },
+  {
+    "num": 44,
+    "q": "Theo Hồ Chí Minh, kẻ thù số một của giai cấp nông dân là ai?",
+    "a": "Giai cấp tư sản cấu kết với thực dân",
+    "b": "Giai cấp tư sản",
+    "c": "Đế quốc và tay sai",
+    "d": "Giai cấp phong kiến",
+    "ans": "c"
+  },
+  {
+    "num": 45,
+    "q": "Bản chất của Đảng cộng sản Việt Nam được thể hiện ở những nội dung nào?",
+    "a": "Trình độ lý luận của Đảng viên",
+    "b": "Số lượng Đảng viên là công nhân",
+    "c": "Nền tảng tư tưởng, lý luận của Đảng chủ nghĩa Mác - Lênin",
+    "d": "Thành phần xuất thân của Đảng viên",
+    "ans": "c"
+  },
+  {
+    "num": 46,
+    "q": "Hồ Chí Minh khẳng định Đảng cộng sản Việt Nam ra đời là sự kết hợp của 3 nhân tố: chủ nghĩa Mác - Lênin, phong trào công nhân, phong trào yêu nước trong tác phẩm nào?",
+    "a": "Ba mươi năm hoạt động của Đảng",
+    "b": "Cương lĩnh chính trị đầu tiên",
+    "c": "Đường cách mệnh",
+    "d": "Tuyên ngôn độc lập",
+    "ans": "a"
+  },
+  {
+    "num": 47,
+    "q": "Luận điểm sau của Hồ Chí Minh: “Trong giai đoạn này quyền lợi của giai cấp công nhân và nhân dân lao động và của dân tộc là một. Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động, cho nên nó phải là Đảng của dân tộc Việt Nam” thể hiện nội dung tư tưởng Hồ Chí Minh về?",
+    "a": "Vai trò của Đảng cộng sản Việt Nam",
+    "b": "Bản chất của Đảng cộng sản Việt Nam",
+    "c": "Sự ra đời của Đảng cộng sản Việt Nam",
+    "d": "Quan niệm về Đảng cầm quyền",
+    "ans": "b"
+  },
+  {
+    "num": 48,
+    "q": "Theo Hồ Chí Minh, Đảng cộng sản Việt Nam ra đời là sự kết hợp của mấy nhân tố?",
+    "a": "3 nhân tố Tài liệu tham khảo môn Triết - Anh Huy",
+    "b": "5 nhân tố",
+    "c": "2 nhân tố",
+    "d": "4 nhân tố",
+    "ans": "a"
+  },
+  {
+    "num": 49,
+    "q": "Theo Hồ Chí Minh, trong nội dung công tác xây dựng Đảng về chính trị, quan trọng nhất là vấn đề gì?",
+    "a": "Phát triển hệ tư tưởng chính trị",
+    "b": "Bảo vệ chính trị",
+    "c": "Củng cố lập trường chính trị",
+    "d": "Xây dựng đường lối chính trị",
+    "ans": "d"
+  },
+  {
+    "num": 50,
+    "q": "Luận điểm: “Trong giai đoạn này, quyền lợi của giai cấp công nhân và nhân dân lao động và của dân tộc là một. Chính vì Đảng Lao động Việt Nam là Đảng của giai cấp công nhân và nhân dân lao động, cho nên nó phải là Đảng của dân tộc Việt Nam”. Luận điểm trên được trích từ Văn kiện nào?",
+    "a": "Di chúc",
+    "b": "Cương lĩnh chính trị đầu tiên",
+    "c": "Đạo đức cách mạng.",
+    "d": "Báo cáo chính trị tại đại hội Đảng toàn quốc lần thứ II (2/1951)",
+    "ans": "d"
+  },
+  {
+    "num": 51,
+    "q": "Theo quan điểm của Hồ Chí Minh thì “Dân chủ” được hiểu như thế nào?",
+    "a": "Nhân dân được tự do",
+    "b": "Quan chủ",
+    "c": "Quyền lực nằm trong tay nhà nước",
+    "d": "Dân là chủ, dân làm chủ",
+    "ans": "d"
+  },
+  {
+    "num": 52,
+    "q": "Tìm cụm từ đúng nhất để điền vào chỗ trống (…) trong câu nói sau của Chủ tịch Hồ Chí Minh “Nghe những lời bình luận không đúng, cũng làm thinh, ... Thậm chí nghe những lời phản cách mạng cũng không báo cáo cho cấp trên biết. Ai nói sao, ai làm gì cũng mặc kệ”.",
+    "a": "Không phê bình",
+    "b": "Không đấu tranh",
+    "c": "Không tìm hiểu",
+    "d": "Không biện bác",
+    "ans": "d"
+  },
+  {
+    "num": 53,
+    "q": "Luận điểm sau đây thuộc tác phẩm nào của Hồ Chí Minh: “Ở nước ta chính quyền là của dân, do nhân dân làm chủ”?",
+    "a": "Di chúc",
+    "b": "Thường thức chính trị",
+    "c": "Cương lĩnh chính trị đầu tiên",
+    "d": "Tuyên ngôn độc lập",
+    "ans": "b"
+  },
+  {
+    "num": 54,
+    "q": "Luận điểm: “Đảng cầm quyền, dân là chủ” thể hiện tư tưởng Hồ Chí Minh về vấn đề gì?",
+    "a": "Bản chất của Đảng cộng sản Việt Nam",
+    "b": "Vai trò của Đảng cộng sản Việt Nam",
+    "c": "Lý tưởng của Đảng cầm quyền",
+    "d": "Mối quan hệ giữa Đảng với dân",
+    "ans": "d"
+  },
+  {
+    "num": 55,
+    "q": "\"Việc gì lợi cho dân, ta phải hết sức làm. Việc gì hại đến dân, ta phải hết sức tránh. Chúng ta phải yêu dân, kính dân thì dân mới yêu ta, kính ta\". Những câu trên trích từ bài viết nào của Hồ Chí Minh? Tài liệu tham khảo môn Triết - Anh Huy",
+    "a": "Bài phát biểu tại kỳ họp đầu tiên của Quốc hội khoá I, năm 1946",
+    "b": "Thư gửi các đồng chí tỉnh nhà",
+    "c": "Thư gửi ủy ban nhân dân các kỳ, tỉnh, huyện và làng.",
+    "d": "Thư gửi các đồng chí Bắc Bộ.",
+    "ans": "c"
+  },
+  {
+    "num": 56,
+    "q": "Theo Hồ Chí Minh, để tiêu diệt bệnh tham ô, lãng phí, trước hết cần tẩy sạch căn bệnh nào?",
+    "a": "Quan liêu",
+    "b": "Tư túng",
+    "c": "Đặc quyền vậy, đây là bệnh gốc sinh ra các bệnh tham ô, lãng phí; muốn trừ sạch bệnh tham ô, lãng phí thì trước hết phải tẩy sạch bệnh quan liêu",
+    "d": "Kiêu ngạo",
+    "ans": "a"
+  },
+  {
+    "num": 57,
+    "q": "Tư tưởng Hồ Chí Minh về xây dựng Nhà nước trong sạch, vững mạnh, hiệu quả, được thể hiện:",
+    "a": "(3) Kiên quyết chống ba thứ “giặc nội xâm” là tham ô, lãng phí, quan liêu;",
+    "b": "(2) Tăng cường pháp luật đi đôi với đẩy mạnh giáo dục đạo đức;",
+    "c": "Cả (2) và (3)",
+    "d": "(1) Phẩm chất đạo đức và tinh thần phục vụ nhân dân phục vụ Tổ quốc của cán bộ, đảng viên;",
+    "ans": "c"
+  },
+  {
+    "num": 58,
+    "q": "Theo Hồ Chí Minh, công tác gốc của Đảng là?",
+    "a": "Công tác cán bộ",
+    "b": "Công tác phê bình",
+    "c": "Công tác chính trị",
+    "d": "Công tác lý luận",
+    "ans": "a"
+  },
+  {
+    "num": 59,
+    "q": "Theo Hồ Chí Minh, “gốc của mọi công việc” là?",
+    "a": "Đạo đức Tài liệu tham khảo môn Triết - Anh Huy",
+    "b": "Lãnh đạo",
+    "c": "Cán bộ",
+    "d": "Tài năng",
+    "ans": "c"
+  }
+]
