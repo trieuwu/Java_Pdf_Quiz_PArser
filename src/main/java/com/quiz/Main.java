@@ -1,5 +1,4 @@
 package com.quiz;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.quiz.model.Question;
@@ -8,46 +7,44 @@ import java.io.File;
 import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
-
-public class Main {
-    public static void main(String[] args) {
-        //tim file root, ko thay thi tao file moi
-        File rootDirectory = new File("pdf_inputs");
-        if (!rootDirectory.exists())
-            rootDirectory.mkdir();
-
-        // method reference de loc các THU MUC con, bo qua cac file rieng le
-        File[] subjectFolders = rootDirectory.listFiles(File::isDirectory);
-        if (subjectFolders == null || subjectFolders.length == 0) {
-            System.out.println("No subject folders found in pdf_inputs");
+public class Main{
+    public static void main(String[] args){
+        File inputFolder=new File("pdf_inputs");
+        if(!inputFolder.exists())inputFolder.mkdir();
+        List<File> pdfFiles=new ArrayList<>();
+        findPdfFiles(inputFolder,pdfFiles);
+        if(pdfFiles.isEmpty()){
+            System.out.println("No PDF files found");
             return;
         }
-
-        //set up cong cu loc va xu ly
-        PdfService pdfParser = new PdfService();
-        Gson jsonConverter = new GsonBuilder().setPrettyPrinting().create();
-
-        //loc xu li tung mon hoc bat ke ten mon hoc (cho het ve lowercase)
-        for (File folder : subjectFolders) {
-            String subjectName = folder.getName();
-            File[] pdfFiles = folder.listFiles((dir, name) -> name.toLowerCase().endsWith(".pdf"));
-
-            if (pdfFiles == null || pdfFiles.length == 0)
-                continue;
-
-            List<Question> subjectQuestions = new ArrayList<>();
-            try {
-                for (File file : pdfFiles)
-                    subjectQuestions.addAll(pdfParser.extractQuestions(file.getAbsolutePath()));
-
-                try (FileWriter fileWriter = new FileWriter(subjectName + ".json")) {
-                    jsonConverter.toJson(subjectQuestions, fileWriter);
+        PdfService pdfService=new PdfService();
+        JsonProcessor jsonProcessor=new JsonProcessor();
+        Gson gsonConverter=new GsonBuilder().setPrettyPrinting().create();
+        try{
+            for(File file:pdfFiles){
+                String sourceName=file.getName().replace(".pdf","");
+                String subjectName=file.getParentFile().getName();
+                File outputFolder=new File("pdf_outputs/"+subjectName);
+                if(!outputFolder.exists())outputFolder.mkdirs();
+                List<Question> extractedQuestions=pdfService.extractQuestions(file.getAbsolutePath(),sourceName);
+                File rawJsonFile=new File(outputFolder,sourceName+".json");
+                try(FileWriter fileWriter=new FileWriter(rawJsonFile)){
+                    gsonConverter.toJson(extractedQuestions,fileWriter);
                 }
-
-                System.out.println("Successfully generated " + subjectName + ".json with " + subjectQuestions.size() + " questions");
-            } catch (Exception exception) { //try-catch error
-                exception.printStackTrace();
+                System.out.println("Generated "+sourceName+".json in pdf_outputs/"+subjectName);
+                jsonProcessor.processAndShuffleFile(rawJsonFile,outputFolder);
+                System.out.println("Generated "+sourceName+"_shuffled.json in pdf_outputs/"+subjectName);
             }
+        }catch(Exception exception){
+            exception.printStackTrace();
+        }
+    }
+    private static void findPdfFiles(File folder,List<File> pdfFiles){
+        File[] files=folder.listFiles();
+        if(files==null)return;
+        for(File file:files){
+            if(file.isDirectory())findPdfFiles(file,pdfFiles);
+            else if(file.getName().toLowerCase().endsWith(".pdf"))pdfFiles.add(file);
         }
     }
 }
